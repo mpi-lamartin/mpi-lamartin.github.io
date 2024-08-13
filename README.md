@@ -1,24 +1,6 @@
 # Site de la MP* du lycée La Martinière Monplaisir
 
-## Modifier les paramètres généraux (titre du site, logo...)
-
-Dans [docusaurus.config.js](./docusaurus.config.js).
-
-## Ajouter un document pour votre matière
-
-Dans [docs/matiere](https://github.com/mpstar-lamartin/mpstar-lamartin.github.io/tree/main/docs).  
-Chaque sous-dossier correspond à une catégorie (Cours, Exercice...).  
-Les fichiers doivent être écrits en markdown (extension en .md) : [guide pour inclure image, titre, table...](https://www.markdownguide.org/basic-syntax).
-
-Add file > New file pour créer un nouveau fichier dans le dossier actuel. Utiliser `/`dans le nom de fichier pour créer un dossier. Par exemple, `ìnformatique/intro.md` va créer un dossier `informatique` avec un fichier `intro.md` dedans.  
-Cliquer sur le "crayon" pour éditer un fichier.  
-Puis cliquer sur "commit changes" tout en bas.
-
-Pour que les fichiers/dossiers apparaissent dans l'ordre que vous voulez, vous pouvez les numéroter (ex : 1_cours, 2_td, 3_ds...).
-
-Vous pouvez aussi utiliser [ce lien](https://github.dev/mpstar-lamartin/mpstar-lamartin.github.io) pour éditer le site dans un éditeur.
-
-Pour upload un document depuis votre ordinateur, cliquer sur Add files > Upload files.
+Site généré avec https://docusaurus.io
 
 ## Génération du site
 
