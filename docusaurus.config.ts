@@ -63,12 +63,12 @@ const config: Config = {
       },
       items: [
         {
-          href: '...',
+          href: 'https://www.google.com',
           label: 'Emploi du temps',
           position: 'left',
         },
         {
-          href: '...',
+          href: 'https://www.google.com',
           label: 'Planning',
           position: 'left',
         },
