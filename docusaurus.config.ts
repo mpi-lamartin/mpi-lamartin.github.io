@@ -42,7 +42,7 @@ const config: Config = {
         blog: {
           blogSidebarTitle: 'Actualités',
           showReadingTime: false,
-          routeBasePath: '/blog',
+          routeBasePath: '/',
           blogTitle: 'Actualités',
         },
         theme: {
