@@ -42,7 +42,7 @@ const config: Config = {
         blog: {
           blogSidebarTitle: 'Actualités',
           showReadingTime: false,
-          routeBasePath: '/',
+          routeBasePath: '/blog',
           blogTitle: 'Actualités',
         },
         theme: {
@@ -63,20 +63,31 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://www.google.com',
-          label: 'Emploi du temps',
+          label: 'Documents',
           position: 'left',
+          type: 'dropdown',
+          items: [
+            {
+              label: 'Emploi du temps',
+              href: 'https://www.facebook.com',
+            },
+            {
+              label: 'Planning',
+              href: 'https://www.facebook.com',
+            },
+          ],
         },
         {
-          href: 'https://www.google.com',
-          label: 'Planning',
+          type: 'doc',
+          docId: 'math/intro',
           position: 'left',
+          label: 'Mathématiques',
+          sidebarId: "math",
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          href: 'https://fortierq.github.io/mpi-info',
+          label: 'Informatique',
           position: 'left',
-          label: 'Tutorial',
         },
         {to: '/', label: 'Actualités', position: 'right'},
         {
