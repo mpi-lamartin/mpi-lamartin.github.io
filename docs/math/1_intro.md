@@ -2,7 +2,7 @@
 
 ## Sous-titre
 
-[Exemple de lien](www.google.com)
+[Exemple de lien](https://www.facebook.com)
 
 ## Exemple de pdf
 
