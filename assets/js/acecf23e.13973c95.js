@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmpi_lamartin_github_io=self.webpackChunkmpi_lamartin_github_io||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/","blogTitle":"Actualit\xe9s","authorsListPath":"/authors"}')}}]);
