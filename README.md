@@ -15,7 +15,7 @@ Si une croix rouge apparaît, c'est qu'il y a eu une erreur (poster un message s
 Voir https://docusaurus.io/docs
 
 1. [Installer node](https://nodejs.org/en/download/package-manager)
-2. npx docusaurus start
+2. npm run start
 
 ## Inclure un pdf avec preview
 
