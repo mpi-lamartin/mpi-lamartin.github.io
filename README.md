@@ -1,4 +1,4 @@
-# Site de la MP* du lycée La Martinière Monplaisir
+# Site de la MPI-MPI* du lycée La Martinière Monplaisir
 
 Site généré avec https://docusaurus.io
 
