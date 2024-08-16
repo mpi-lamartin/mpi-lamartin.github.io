@@ -69,7 +69,7 @@ const config: Config = {
           items: [
             {
               label: 'Emploi du temps',
-              href: 'https://www.facebook.com',
+              href: 'docs/organisation/edt.pdf',
             },
             {
               label: 'Planning',
