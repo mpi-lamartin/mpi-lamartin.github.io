@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Premier post gh]]></title>
+            <link>https://mpi-lamartin.github.io/divers</link>
+            <guid>https://mpi-lamartin.github.io/divers</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ut blandit in nisl eu consequat. Suspendisse sollicitudin at neque sit amet condimentum. Phasellus suscipit laoreet augue pharetra commodo. Quisque hendrerit turpis diam, sit amet faucibus ligula tincidunt et. Vestibulum nisl orci, dignissim id tellus vel, auctor imperdiet diam. Mauris rhoncus odio a nibh tempor, et ultrices ligula dictum. Aliquam tincidunt nibh sit amet ipsum scelerisque laoreet. Aliquam laoreet arcu a iaculis fermentum.]]></description>
+            <content:encoded><![CDATA[<p>Ut blandit in nisl eu consequat. Suspendisse sollicitudin at neque sit amet condimentum. Phasellus suscipit laoreet augue pharetra commodo. Quisque hendrerit turpis diam, sit amet faucibus ligula tincidunt et. Vestibulum nisl orci, dignissim id tellus vel, auctor imperdiet diam. Mauris rhoncus odio a nibh tempor, et ultrices ligula dictum. Aliquam tincidunt nibh sit amet ipsum scelerisque laoreet. Aliquam laoreet arcu a iaculis fermentum.</p>]]></content:encoded>
+            <category>divers</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://mpi-lamartin.github.io/welcome</link>
