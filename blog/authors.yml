@@ -1,3 +1,11 @@
+ghaberer:
+  name: Guillaume Haberer
+  title: Professeur de mathématiques
+  image_url: https://github.com/ghaberer.png
+  socials:
+    linkedin: guillaume-haberer-3b122680
+    github: ghaberer
+
 endi:
   name: Endilie Yacop Sucipto
   title: Maintainer of Docusaurus
