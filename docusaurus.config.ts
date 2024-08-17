@@ -57,20 +57,20 @@ const config: Config = {
     // Replace with your project's social card
     // image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'MPI/MPI* La Martinière Monplaisir',
+      title: 'MPI/MPI* La Martin',
       logo: {
         alt: 'MPI/MPI* La Martinière Monplaisir',
         src: 'img/logo.png',
       },
       items: [
         {
-          label: 'Documents',
+          label: 'Organisation',
           position: 'left',
           type: 'dropdown',
           items: [
             {
               label: 'Emploi du temps',
-              href: 'docs/organisation/edt.pdf',
+              href: '../organisation/edt.pdf',
             },
             {
               label: 'Planning',
@@ -86,14 +86,24 @@ const config: Config = {
           sidebarId: "math",
         },
         {
+          href: 'https://cahier-de-prepa.fr',
+          position: 'left',
+          label: 'Physique',
+        },
+        {
           href: 'https://fortierq.github.io/mpi-info',
           label: 'Informatique',
           position: 'left',
         },
         {to: '/', label: 'Actualités', position: 'right'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://www.scei-concours.fr',
+          label: 'SCEI',
           position: 'right',
         },
       ],
