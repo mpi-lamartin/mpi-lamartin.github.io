@@ -37,8 +37,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/mpi-lamartin/mpi-lamartin.github.io',
+          //// editUrl:
+          ////  'https://github.com/mpi-lamartin/mpi-lamartin.github.io',
         },
         blog: {
           blogSidebarTitle: 'Actualités',
@@ -63,24 +63,32 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
+        // {
+        //   label: 'Organisation',
+        //   position: 'left',
+        //   type: 'dropdown',
+        //   items: [
+        //     {
+        //       label: 'Emploi du temps',
+        //       href: '/docs/organisation/edt.pdf',
+        //     },
+        //     {
+        //       label: 'Planning',
+        //       href: 'https://www.facebook.com',
+        //     },
+        //   ],
+        // },
         {
-          label: 'Organisation',
+          type: 'doc',
+          docId: 'orga/doc1',
           position: 'left',
-          type: 'dropdown',
-          items: [
-            {
-              label: 'Emploi du temps',
-              href: '../organisation/edt.pdf',
-            },
-            {
-              label: 'Planning',
-              href: 'https://www.facebook.com',
-            },
-          ],
+          label: 'Organisation',
+          sidebarId: "orga",
         },
         {
           type: 'doc',
-          docId: 'math/intro',
+         // docId: 'math/intro',
+	 docId: 'math/doc1',
           position: 'left',
           label: 'Mathématiques',
           sidebarId: "math",
@@ -89,16 +97,23 @@ const config: Config = {
           href: 'https://cahier-de-prepa.fr',
           position: 'left',
           label: 'Physique',
+          sidebarId: "physique",
         },
         {
           href: 'https://fortierq.github.io/mpi-info',
           label: 'Informatique',
           position: 'left',
+          sidebarId: "info",
         },
-        {to: '/', label: 'Actualités', position: 'right'},
+        // {to: '/', label: 'Actualités', position: 'right'},
         {
           href: 'https://github.com',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://prepas.org/index.php?entree=etudiants',
+          label: 'prepas.org',
           position: 'right',
         },
         {

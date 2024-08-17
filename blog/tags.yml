@@ -1,3 +1,7 @@
+divers:
+  label: Divers
+  permalink: /divers
+  description: Divers tag description
 facebook:
   label: Facebook
   permalink: /facebook
