@@ -9,6 +9,7 @@ sidebar_label: Mathématiques
 [Suivre ce lien](http://envoi.lamartin.fr) pour envoyer des documents de mathématiques 
 
 ## Les polys de cours
+Les liens seront actifs au fur et à mesure de l'avancée du cours. 
 
 ### 1. Algèbre générale
 

@@ -1,20 +1,12 @@
 divers:
   label: Divers
   permalink: /divers
-  description: Divers tag description
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+  description: Les inclassables
+math:
+  label: Math
+  permalink: /math
+  description: Ce qui concerne les math
+orga:
+  label: Organisation
+  permalink: /orga
+  description: Ce qui concerne l'emploi du temps, l'organisation

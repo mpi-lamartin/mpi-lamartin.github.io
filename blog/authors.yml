@@ -6,28 +6,29 @@ ghaberer:
     linkedin: guillaume-haberer-3b122680
     github: ghaberer
 
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+qfortier:
+  name: Quentin Fortier
+  title: Professeur d'informatique
+  image_url: https://github.com/qfortier.png
   socials:
-    x: yangshunz
-    github: yangshun
+    github: qfortier
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+lhache:
+  name: Laurent Hache
+  title: Professeur de physique
+
+lsmart:
+  name: Lee Smart
+  title: Professeur d'anglais
+
+fdebaecker:
+  name: Florence Debaecker
+  title: Professeur d'anglais
+
+mgonod:
+  name: Mathieu Gonod
+  title: Professeur de français-philosophie
+
+mdl:
+  name: Marie-Aude de Langenhagen
+  title: Professeur de français-philosophie
