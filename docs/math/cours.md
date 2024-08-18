@@ -27,10 +27,10 @@ sidebar_label: Mathématiques
 | ----------- | ----------- | ----------- |
 |Compléments d'algèbre linéaire|[211](./211.pdf)|[221](./221.pdf)|
 |Compléments sur les matrices|[212](./212.pdf)|[222](./222.pdf)|
-||[213](./213.pdf)|[223](./223.pdf)|
-||[214](./214.pdf)|[224](./224.pdf)|
-||[215](./215.pdf)|[225](./225.pdf)|
-||[216](./216.pdf)|[226](./226.pdf)|
+|Déterminants|[213](./213.pdf)|[223](./223.pdf)|
+|Diagonalisation|[214](./214.pdf)|[224](./224.pdf)|
+|Polynomes d'endomorphismes|[215](./215.pdf)|[225](./225.pdf)|
+|Réduction (fin)|[216](./216.pdf)|[226](./226.pdf)|
 
 ### 3. Algèbre bilinéaire
 

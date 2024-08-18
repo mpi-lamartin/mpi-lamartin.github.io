@@ -85,14 +85,30 @@ const config: Config = {
           label: 'Organisation',
           sidebarId: "orga",
         },
-        {
-          type: 'doc',
-          // docId: 'math/intro',
-	  docId: 'math/doc1',
-          position: 'left',
-          label: 'Mathématiques',
-          sidebarId: "math",
-        },
+         {
+           label: 'Mathématiques',
+           position: 'left',
+           type: 'dropdown',
+           items: [
+             {
+               type: 'doc',
+	       docId: 'math/doc1',
+	       label: 'Les polys',
+             },
+             {
+               type: 'doc',
+	       docId: 'math/doc2',
+	       label: 'Les notes de cours',
+             },
+           ],
+         },
+        // {
+        //   type: 'doc',
+	//   docId: 'math/doc1',
+        //   position: 'left',
+        //   label: 'Mathématiques',
+        //   sidebarId: "math",
+        // },
         {
           href: 'https://cahier-de-prepa.fr',
           position: 'left',
