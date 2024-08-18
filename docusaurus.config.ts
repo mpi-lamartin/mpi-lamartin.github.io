@@ -18,7 +18,7 @@ const config: Config = {
   projectName: 'mpi-lamartin.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'ignore',// 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -87,8 +87,8 @@ const config: Config = {
         },
         {
           type: 'doc',
-         // docId: 'math/intro',
-	 docId: 'math/doc1',
+          // docId: 'math/intro',
+	  docId: 'math/doc1',
           position: 'left',
           label: 'Mathématiques',
           sidebarId: "math",
@@ -105,6 +105,13 @@ const config: Config = {
           position: 'left',
           sidebarId: "info",
         },
+	{
+          type: 'doc',
+	  docId: 'tipe/doc1',
+          position: 'left',
+          label: 'TIPE',
+          sidebarId: "tipe",
+	  },
         // {to: '/', label: 'Actualités', position: 'right'},
         {
           href: 'https://github.com',
