@@ -8,12 +8,12 @@
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Bonne rentrée]]></title>
+        <title type="html"><![CDATA[C'est la rentrée !]]></title>
         <id>https://mpi-lamartin.github.io/rentree</id>
         <link href="https://mpi-lamartin.github.io/rentree"/>
         <updated>2024-09-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bienvenue en MPI/MPI*.]]></summary>
-        <content type="html"><![CDATA[<p>Bienvenue en MPI/MPI*.</p>]]></content>
+        <summary type="html"><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></summary>
+        <content type="html"><![CDATA[<p>Merci de <a href="https://forms.gle/TRer2BKsS8EXhfAJA" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>

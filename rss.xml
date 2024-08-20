@@ -9,12 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
         <item>
-            <title><![CDATA[Bonne rentrée]]></title>
+            <title><![CDATA[C'est la rentrée !]]></title>
             <link>https://mpi-lamartin.github.io/rentree</link>
             <guid>https://mpi-lamartin.github.io/rentree</guid>
             <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Bienvenue en MPI/MPI*.]]></description>
-            <content:encoded><![CDATA[<p>Bienvenue en MPI/MPI*.</p>]]></content:encoded>
+            <description><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></description>
+            <content:encoded><![CDATA[<p>Merci de <a href="https://forms.gle/TRer2BKsS8EXhfAJA" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></p>]]></content:encoded>
             <category>Organisation</category>
         </item>
         <item>
