@@ -9,9 +9,10 @@ ghaberer:
 qfortier:
   name: Quentin Fortier
   title: Professeur d'informatique
-  image_url: https://github.com/qfortier.png
+  image_url: https://github.com/fortierq.png
   socials:
-    github: qfortier
+    linkedin: fortierq
+    github: fortierq
 
 lhache:
   name: Laurent Hache
