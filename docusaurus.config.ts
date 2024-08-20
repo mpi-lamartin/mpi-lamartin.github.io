@@ -55,14 +55,14 @@ const config: Config = {
   ],
 
   themeConfig: {
-    #   announcementBar: {
-    #   id: 'support_us',
-    #   content:
-    #     'Site en développement',
-    #   backgroundColor: '#ff0000',
-    #   textColor: '#091E42',
-    #   isCloseable: false,
-    # },
+    //   announcementBar: {
+    //   id: 'support_us',
+    //   content:
+    //     'Site en développement',
+    //   backgroundColor: '#ff0000',
+    //   textColor: '#091E42',
+    //   isCloseable: false,
+    // },
     // Replace with your project's social card
     // image: 'img/docusaurus-social-card.jpg',
     navbar: {
