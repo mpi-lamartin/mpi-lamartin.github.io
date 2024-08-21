@@ -38,30 +38,6 @@
         <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C'est la rentrée !]]></title>
-        <id>https://mpi-lamartin.github.io/rentree</id>
-        <link href="https://mpi-lamartin.github.io/rentree"/>
-        <updated>2024-08-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Juste un test]]></summary>
-        <content type="html"><![CDATA[<p>Merci de <a href="https://forms.gle/TRer2BKsS8EXhfAJA" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test]]></title>
-        <id>https://mpi-lamartin.github.io/test</id>
-        <link href="https://mpi-lamartin.github.io/test"/>
-        <updated>2024-08-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Test de publication]]></summary>
-        <content type="html"><![CDATA[<p>Test de publication</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rubrique mathématiques]]></title>
         <id>https://mpi-lamartin.github.io/math</id>
         <link href="https://mpi-lamartin.github.io/math"/>
