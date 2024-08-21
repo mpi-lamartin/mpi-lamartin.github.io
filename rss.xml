@@ -18,6 +18,15 @@
             <category>Organisation</category>
         </item>
         <item>
+            <title><![CDATA[Test]]></title>
+            <link>https://mpi-lamartin.github.io/test</link>
+            <guid>https://mpi-lamartin.github.io/test</guid>
+            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Test de publication]]></description>
+            <content:encoded><![CDATA[<p>Test de publication</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
+        <item>
             <title><![CDATA[Rubrique mathématiques]]></title>
             <link>https://mpi-lamartin.github.io/math</link>
             <guid>https://mpi-lamartin.github.io/math</guid>

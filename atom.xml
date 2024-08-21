@@ -38,6 +38,18 @@
         <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://mpi-lamartin.github.io/test</id>
+        <link href="https://mpi-lamartin.github.io/test"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Test de publication]]></summary>
+        <content type="html"><![CDATA[<p>Test de publication</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rubrique mathématiques]]></title>
         <id>https://mpi-lamartin.github.io/math</id>
         <link href="https://mpi-lamartin.github.io/math"/>
