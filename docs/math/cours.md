@@ -45,12 +45,14 @@ Des espaces vectoriels normés
 
 ||MPI|MPI*|
 | ----------- | ----------- | ----------- |
-||[411](./411.pdf)|[421](./421.pdf)|
-||[412](./412.pdf)|[422](./422.pdf)|
-||[413](./413.pdf)|[423](./423.pdf)|
-||[414](./414.pdf)|[424](./424.pdf)|
-||[415](./415.pdf)|[425](./425.pdf)|
-||[416](./416.pdf)|[426](./426.pdf)|
+|Limite, continuité des fonctions numériques|[411](./411.pdf)|[421](./421.pdf)|
+|Espaces vectoriels normés|[412](./412.pdf)|[422](./422.pdf)|
+|Topologie|[413](./413.pdf)|[423](./423.pdf)|
+|Limite, continuité des fonctions entre evn|[414](./414.pdf)|[424](./424.pdf)|
+|Continuité des applications linéaires|[415](./415.pdf)|[425](./425.pdf)|
+|Compacité|[416](./416.pdf)|[426](./426.pdf)|
+|Espaces normés de dimension finie|[417](./417.pdf)|[427](./427.pdf)|
+|Connexité|[418](./418.pdf)|[428](./428.pdf)|
 
 ### 5. Analyse discrète
 Des suites et des séries
@@ -72,23 +74,21 @@ Des fonctions d'une variable réelle
 ||MPI|MPI*|
 | ----------- | ----------- | ----------- |
 |Analyse asymptotique|[611](./611.pdf)|[621](./621.pdf)|
-||[612](./612.pdf)|[622](./622.pdf)|
-||[613](./613.pdf)|[623](./623.pdf)|
-||[614](./614.pdf)|[624](./624.pdf)|
-||[615](./615.pdf)|[625](./625.pdf)|
-||[616](./616.pdf)|[626](./626.pdf)|
+|Dérivation des fonctions numériques|[612](./612.pdf)|[622](./622.pdf)|
+|Intégration sur un segment des fonctions numériques|[613](./613.pdf)|[623](./623.pdf)|
+|Fonctions vectorielles|[614](./614.pdf)|[624](./624.pdf)|
+|Intégration sur un intervalle quelconque|[615](./615.pdf)|[625](./625.pdf)|
+|Intégrales à paramètre|[616](./616.pdf)|[626](./626.pdf)|
+|Équations différentielles linéaires|[617](./617.pdf)|[627](./627.pdf)|
 
 ### 7. Calcul différentiel
 Des fonctions de plusieurs variables
 
 ||MPI|MPI*|
 | ----------- | ----------- | ----------- |
-||[711](./711.pdf)|[721](./721.pdf)|
-||[712](./712.pdf)|[722](./722.pdf)|
-||[713](./713.pdf)|[723](./723.pdf)|
-||[714](./714.pdf)|[724](./724.pdf)|
-||[715](./715.pdf)|[725](./725.pdf)|
-||[716](./716.pdf)|[726](./726.pdf)|
+|Continuité des fonctions de plusieurs variables|[711](./711.pdf)|[721](./721.pdf)|
+|Calcul différentiel|[712](./712.pdf)|[722](./722.pdf)|
+|Optimisation|[713](./713.pdf)|[723](./723.pdf)|
 
 ### 8. Probabilités
 
