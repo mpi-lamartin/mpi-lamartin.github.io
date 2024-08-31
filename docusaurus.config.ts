@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -94,26 +94,26 @@ const config: Config = {
           label: 'Organisation',
           sidebarId: "orga",
         },
-         {
-           label: 'Mathématiques',
-           position: 'left',
-           type: 'dropdown',
-           items: [
-             {
-               type: 'doc',
-	       docId: 'math/doc1',
-	       label: 'Les polys',
-             },
-             {
-               type: 'doc',
-	       docId: 'math/doc2',
-	       label: 'Les notes de cours',
-             },
-           ],
-         },
+        {
+          label: 'Mathématiques',
+          position: 'left',
+          type: 'dropdown',
+          items: [
+            {
+              type: 'doc',
+              docId: 'math/doc1',
+              label: 'Les polys',
+            },
+            {
+              type: 'doc',
+              docId: 'math/doc2',
+              label: 'Les notes de cours',
+            },
+          ],
+        },
         // {
         //   type: 'doc',
-	//   docId: 'math/doc1',
+        //   docId: 'math/doc1',
         //   position: 'left',
         //   label: 'Mathématiques',
         //   sidebarId: "math",
@@ -125,21 +125,20 @@ const config: Config = {
           sidebarId: "physique",
         },
         {
-          href: 'https://fortierq.github.io/mpi-info',
+          href: 'https://mpi-lamartin.github.io/mpi-info/',
           label: 'Informatique',
           position: 'left',
           sidebarId: "info",
         },
-	{
+        {
           type: 'doc',
-	  docId: 'tipe/doc1',
+          docId: 'tipe/doc1',
           position: 'left',
           label: 'TIPE',
           sidebarId: "tipe",
-	  },
-        // {to: '/', label: 'Actualités', position: 'right'},
+        },
         {
-          href: 'https://github.com',
+          href: 'https://github.com/mpi-lamartin/mpi-lamartin.github.io',
           label: 'GitHub',
           position: 'right',
         },
