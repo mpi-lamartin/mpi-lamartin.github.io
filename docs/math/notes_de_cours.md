@@ -12,4 +12,5 @@ sidebar_label: Mathématiques
 
 |MPI|MPI*|
 | ----------- | ----------- |
-|[202409021](http://einexau.cluster028.hosting.ovh.net/site/math/202409021.pdf)|[202409022](http://einexau.cluster028.hosting.ovh.net/site/math/202409022.pdf)|
+|[20240902](http://einexau.cluster028.hosting.ovh.net/site/math/20240902.pdf)|[20240902](http://einexau.cluster028.hosting.ovh.net/site/math/20240902.pdf)|
+|[20240903](http://einexau.cluster028.hosting.ovh.net/site/math/20240903.pdf)|[20240903](http://einexau.cluster028.hosting.ovh.net/site/math/20240903e.pdf)|
