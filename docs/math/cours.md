@@ -15,12 +15,12 @@ Les liens seront actifs au fur et à mesure de l'avancée du cours.
 
 ||MPI|MPI*|
 | ----------- | ----------- | ----------- |
-|Groupes|[111](./111.pdf)|[121](./121.pdf)|
-|Anneaux|[112](./112.pdf)|[122](./122.pdf)|
-|Polynômes|[113](./113.pdf)|[123](./123.pdf)|
-|ℤ/nℤ|[114](./114.pdf)|[124](./124.pdf)|
-|Complexes|[115](./115.pdf)|[125](./125.pdf)|
-|Groupe symétrique|[116](./116.pdf)|[126](./126.pdf)|
+|Groupes|[11](./11.pdf)|[11](./11e.pdf)|
+|Anneaux|[12](./12.pdf)|[12](./12e.pdf)|
+|Polynômes|[13](./13.pdf)|[13](./13e.pdf)|
+|ℤ/nℤ|[14](./14.pdf)|[14](./14e.pdf)|
+|Complexes|[15](./15.pdf)|[15](./15e.pdf)|
+|Groupe symétrique|[16](./16.pdf)|[16](./16e.pdf)|
 
 ### 2. Algèbre linéaire et réduction
 
