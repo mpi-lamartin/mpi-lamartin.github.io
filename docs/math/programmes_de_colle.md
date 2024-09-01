@@ -1,12 +1,8 @@
 ---
 id: doc3
-title: Mathématiques
+title: Mathématiques - les programmes de colle
 sidebar_label: Mathématiques
 ---
-
-## Envoi de documents
-
-[Suivre ce lien](http://envoi.lamartin.fr) pour envoyer des documents de mathématiques 
 
 ## Les programmes de colle
 Les liens seront actifs au fur et à mesure de l'avancée du cours. 

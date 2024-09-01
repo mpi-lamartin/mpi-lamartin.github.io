@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Mathématiques
+title: Mathématiques - les polys
 sidebar_label: Mathématiques
 ---
 
