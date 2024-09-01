@@ -109,6 +109,11 @@ const config: Config = {
               docId: 'math/doc2',
               label: 'Les notes de cours',
             },
+            {
+              type: 'doc',
+              docId: 'math/doc3',
+              label: 'Les programmes de colle',
+            },
           ],
         },
         // {
