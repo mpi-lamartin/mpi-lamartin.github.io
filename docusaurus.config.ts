@@ -124,7 +124,7 @@ const config: Config = {
         //   sidebarId: "math",
         // },
         {
-          href: 'https://cahier-de-prepa.fr',
+          href: 'https://cahier-de-prepa.fr/mpi-martiniere-monplaisir/',
           position: 'left',
           label: 'Physique',
           sidebarId: "physique",
