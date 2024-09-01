@@ -109,3 +109,10 @@ Des fonctions de plusieurs variables
 | | | |
 | ----------- | ----------- | ----------- |
 |Banque oral CCINP|[sans corrigés](./2024_CCINP_sans_corrections.pdf)|[avec corrigés](./2024_CCINP_avec_corrections.pdf)|
+
+
+## Le programme officiel
+
+| | | |
+| ----------- | ----------- | ----------- |
+|Programme officiel|[MP2I](./programme-mpsi-mp2i_mathematiques.pdf)|[MPI/MPI*](./programme-mp-mpi_mathematiques.pdf)|
