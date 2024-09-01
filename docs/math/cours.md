@@ -73,13 +73,14 @@ Des fonctions d'une variable réelle
 
 ||MPI|MPI*|
 | ----------- | ----------- | ----------- |
-|Analyse asymptotique|[61](./61.pdf)|[61](./61e.pdf)|
-|Dérivation des fonctions numériques|[62](./62.pdf)|[62](./62e.pdf)|
-|Intégration sur un segment des fonctions numériques|[63](./63.pdf)|[63](./63e.pdf)|
-|Fonctions vectorielles|[64](./64.pdf)|[64](./64e.pdf)|
-|Intégration sur un intervalle quelconque|[65](./65.pdf)|[65](./65e.pdf)|
-|Intégrales à paramètre|[66](./66.pdf)|[66](./66e.pdf)|
-|Équations différentielles linéaires|[67](./67.pdf)|[67](./67e.pdf)|
+|Fonctions usuelles|[61](./61.pdf)|[61](./61e.pdf)|
+|Analyse asymptotique|[62](./62.pdf)|[62](./62e.pdf)|
+|Dérivation des fonctions numériques|[63](./63.pdf)|[63](./63e.pdf)|
+|Intégration sur un segment des fonctions numériques|[64](./64.pdf)|[64](./64e.pdf)|
+|Fonctions vectorielles|[65](./65.pdf)|[65](./65e.pdf)|
+|Intégration sur un intervalle quelconque|[66](./66.pdf)|[66](./66e.pdf)|
+|Intégrales à paramètre|[67](./67.pdf)|[67](./67e.pdf)|
+|Équations différentielles linéaires|[68](./68.pdf)|[68](./68e.pdf)|
 
 ### 7. Calcul différentiel
 Des fonctions de plusieurs variables
