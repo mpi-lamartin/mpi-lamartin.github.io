@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Thu, 12 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Documents pour les colles d'anglais]]></title>
+            <link>https://mpi-lamartin.github.io/2024/09/15/colles_anglais</link>
+            <guid>https://mpi-lamartin.github.io/2024/09/15/colles_anglais</guid>
+            <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les documents utiles pour les colles d'anglais sont ici, à télécharger en avance sur les téléphones.]]></description>
+            <content:encoded><![CDATA[<p>Les documents utiles pour les colles d'anglais sont <a href="https://nuage04.apps.education.fr/index.php/s/3tYK7XHDw6aozRP" target="_blank" rel="noopener noreferrer">ici</a>, à télécharger en avance sur les téléphones.</p>]]></content:encoded>
+            <category>Divers</category>
+        </item>
         <item>
             <title><![CDATA[Coquille corrigés 62.13 et 62.14]]></title>
             <link>https://mpi-lamartin.github.io/2024/09/12/coquille-61.14</link>
