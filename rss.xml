@@ -4,10 +4,23 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Colloscope]]></title>
+            <link>https://mpi-lamartin.github.io/2024/09/16/colloscope_beta</link>
+            <guid>https://mpi-lamartin.github.io/2024/09/16/colloscope_beta</guid>
+            <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Le colloscope en version définitive est disponible.]]></description>
+            <content:encoded><![CDATA[<p>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version définitive</a> est disponible.</p>
+<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</del></p>
+<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
+<p>Merci de me faire remonter toute anomalie repérée.</p>
+<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Documents pour les colles d'anglais]]></title>
             <link>https://mpi-lamartin.github.io/2024/09/15/colles_anglais</link>
@@ -25,18 +38,6 @@
             <description><![CDATA[Il y avait une coquille dans les corrigés des exercices 62.13 et 62.14, c'est rectifié.]]></description>
             <content:encoded><![CDATA[<p>Il y avait une coquille dans les corrigés des exercices <a href="http://einexau.cluster028.hosting.ovh.net/site/math/62.13.pdf" target="_blank" rel="noopener noreferrer">62.13</a> et <a href="http://einexau.cluster028.hosting.ovh.net/site/math/62.14.pdf" target="_blank" rel="noopener noreferrer">62.14</a>, c'est rectifié.</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Colloscope]]></title>
-            <link>https://mpi-lamartin.github.io/2024/09/11/colloscope_beta</link>
-            <guid>https://mpi-lamartin.github.io/2024/09/11/colloscope_beta</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Une erreur s'était glissée dans le colloscope, qui passe en version beta 1.2.]]></description>
-            <content:encoded><![CDATA[<p>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
-<p>Merci de me faire remonter toute anomalie repérée.</p>
-<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
         <item>
             <title><![CDATA[C'est la rentrée !]]></title>

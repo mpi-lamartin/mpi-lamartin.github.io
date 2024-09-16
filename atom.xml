@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2024-09-15T00:00:00.000Z</updated>
+    <updated>2024-09-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Colloscope]]></title>
+        <id>https://mpi-lamartin.github.io/2024/09/16/colloscope_beta</id>
+        <link href="https://mpi-lamartin.github.io/2024/09/16/colloscope_beta"/>
+        <updated>2024-09-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le colloscope en version définitive est disponible.]]></summary>
+        <content type="html"><![CDATA[<p>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version définitive</a> est disponible.</p>
+<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</del></p>
+<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
+<p>Merci de me faire remonter toute anomalie repérée.</p>
+<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Documents pour les colles d'anglais]]></title>
         <id>https://mpi-lamartin.github.io/2024/09/15/colles_anglais</id>
@@ -33,21 +49,6 @@
             <name>Guillaume Haberer</name>
         </author>
         <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colloscope]]></title>
-        <id>https://mpi-lamartin.github.io/2024/09/11/colloscope_beta</id>
-        <link href="https://mpi-lamartin.github.io/2024/09/11/colloscope_beta"/>
-        <updated>2024-09-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Une erreur s'était glissée dans le colloscope, qui passe en version beta 1.2.]]></summary>
-        <content type="html"><![CDATA[<p>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
-<p>Merci de me faire remonter toute anomalie repérée.</p>
-<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[C'est la rentrée !]]></title>
