@@ -8,16 +8,12 @@
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Colloscope]]></title>
-        <id>https://mpi-lamartin.github.io/2024/09/16/colloscope_beta</id>
-        <link href="https://mpi-lamartin.github.io/2024/09/16/colloscope_beta"/>
+        <title type="html"><![CDATA[Modification d'un horaire de colle]]></title>
+        <id>https://mpi-lamartin.github.io/2024/09/16/modification _colloscope</id>
+        <link href="https://mpi-lamartin.github.io/2024/09/16/modification _colloscope"/>
         <updated>2024-09-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Le colloscope en version définitive est disponible.]]></summary>
-        <content type="html"><![CDATA[<p>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version définitive</a> est disponible.</p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</del></p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
-<p>Merci de me faire remonter toute anomalie repérée.</p>
-<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content>
+        <summary type="html"><![CDATA[La colle d'anglais du vendredi est décalée d'une heure, suite à une incompatibilité d'emploi du temps. La colle aura donc lieu dès cette semaine de 12h35 à 13h30.]]></summary>
+        <content type="html"><![CDATA[<p>La colle d'anglais du vendredi est décalée d'une heure, suite à une incompatibilité d'emploi du temps. La colle aura donc lieu dès cette semaine de 12h35 à 13h30.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
@@ -37,6 +33,22 @@
             <name>Lee Smart</name>
         </author>
         <category label="Divers" term="Divers"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colloscope]]></title>
+        <id>https://mpi-lamartin.github.io/2024/09/14/colloscope_beta</id>
+        <link href="https://mpi-lamartin.github.io/2024/09/14/colloscope_beta"/>
+        <updated>2024-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le colloscope en version définitive est disponible.]]></summary>
+        <content type="html"><![CDATA[<p>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version définitive</a> est disponible.</p>
+<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</del></p>
+<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
+<p>Merci de me faire remonter toute anomalie repérée.</p>
+<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coquille corrigés 62.13 et 62.14]]></title>
