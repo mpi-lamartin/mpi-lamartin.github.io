@@ -30,7 +30,7 @@ sidebar_label: Mathématiques
 | ----------- |
 |[11.16](http://einexau.cluster028.hosting.ovh.net/site/math/11.16.pdf)|
 |[11.17](http://einexau.cluster028.hosting.ovh.net/site/math/11.17.pdf)|
-|[21.29]():construction:|
+|[21.29](http://einexau.cluster028.hosting.ovh.net/site/math/21.29.pdf):construction:|
 |[21.30](http://einexau.cluster028.hosting.ovh.net/site/math/21.30.pdf)|
 |[61.23](http://einexau.cluster028.hosting.ovh.net/site/math/61.23.pdf)|
 |[62.13](http://einexau.cluster028.hosting.ovh.net/site/math/62.13.pdf)|
