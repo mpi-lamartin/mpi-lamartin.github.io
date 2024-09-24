@@ -114,6 +114,11 @@ const config: Config = {
               docId: 'math/doc3',
               label: 'Les programmes de colle',
             },
+            {
+              type: 'doc',
+              docId: 'math/doc4',
+              label: 'Les devoirs',
+            },
           ],
         },
         // {
