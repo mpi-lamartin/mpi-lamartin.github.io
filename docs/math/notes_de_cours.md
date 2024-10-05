@@ -29,6 +29,9 @@ sidebar_label: Mathématiques
 |[20240927](http://einexau.cluster028.hosting.ovh.net/site/math/20240927.pdf)|[20240927](http://einexau.cluster028.hosting.ovh.net/site/math/20240927.pdf)|
 |[20241002](http://einexau.cluster028.hosting.ovh.net/site/math/20241002.pdf)|[20241002](http://einexau.cluster028.hosting.ovh.net/site/math/20241002_e.pdf)|
 |[20241002_2](http://einexau.cluster028.hosting.ovh.net/site/math/20241002_2.pdf)|[20241002_2](http://einexau.cluster028.hosting.ovh.net/site/math/20241002_2.pdf)|
+|[20241003](http://einexau.cluster028.hosting.ovh.net/site/math/20241003.pdf)|[20241003](http://einexau.cluster028.hosting.ovh.net/site/math/20241003.pdf)|
+|[20241003_2](http://einexau.cluster028.hosting.ovh.net/site/math/20241003_2.pdf)|[20241003_2](http://einexau.cluster028.hosting.ovh.net/site/math/20241003_2.pdf)|
+|[20241004](http://einexau.cluster028.hosting.ovh.net/site/math/20241004.pdf)|[20241004](http://einexau.cluster028.hosting.ovh.net/site/math/20241004.pdf)|
 
 ## Les exercices à rédiger
 
