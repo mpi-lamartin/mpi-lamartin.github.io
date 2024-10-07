@@ -39,12 +39,15 @@ sidebar_label: Mathématiques
 | ----------- |
 |[11.16](http://einexau.cluster028.hosting.ovh.net/site/math/11.16.pdf)|
 |[11.17](http://einexau.cluster028.hosting.ovh.net/site/math/11.17.pdf)|
+|[12.7](http://einexau.cluster028.hosting.ovh.net/site/math/12.7.pdf)|
 |[21.29](http://einexau.cluster028.hosting.ovh.net/site/math/21.29.pdf)|
 |[21.30](http://einexau.cluster028.hosting.ovh.net/site/math/21.30.pdf)|
 |[22.13](http://einexau.cluster028.hosting.ovh.net/site/math/22.13.pdf)|
 |[22.14](http://einexau.cluster028.hosting.ovh.net/site/math/22.14.pdf)|
 |[53.16](http://einexau.cluster028.hosting.ovh.net/site/math/53.16.pdf)|
 |[53.17](http://einexau.cluster028.hosting.ovh.net/site/math/53.17.pdf)|
+|[54.24](http://einexau.cluster028.hosting.ovh.net/site/math/54.24.pdf)|
+|[54.25](http://einexau.cluster028.hosting.ovh.net/site/math/54.25.pdf)|
 |[61.22](http://einexau.cluster028.hosting.ovh.net/site/math/61.22.pdf)|
 |[61.23](http://einexau.cluster028.hosting.ovh.net/site/math/61.23.pdf)|
 |[62.13](http://einexau.cluster028.hosting.ovh.net/site/math/62.13.pdf)|
