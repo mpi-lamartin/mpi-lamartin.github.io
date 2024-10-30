@@ -4,10 +4,36 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 24 Sep 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Histogramme des notes du premier ds]]></title>
+            <link>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</link>
+            <guid>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</guid>
+            <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'histogramme des notes est visible ici]]></description>
+            <content:encoded><![CDATA[<p>L'histogramme des notes est visible <a href="https://mpi-lamartin.github.io/2024/11/04/docs/math/doc4">ici</a></p>]]></content:encoded>
+            <category>Math</category>
+        </item>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2024/09/30/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2024/09/30/exercices_corriges</guid>
+            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/24.29.pdf" target="_blank" rel="noopener noreferrer">24.29</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/24.30.pdf" target="_blank" rel="noopener noreferrer">24.30</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/25.10.pdf" target="_blank" rel="noopener noreferrer">25.10</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/25.11.pdf" target="_blank" rel="noopener noreferrer">25.11</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.21.pdf" target="_blank" rel="noopener noreferrer">26.21</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.22.pdf" target="_blank" rel="noopener noreferrer">26.22</a>
+sont disponibles.</p>
+<p>À noter qu'il y a une erreur dans l'énoncé de l'exercice 24.30 : il faut lire « T(f)(0) = f(0) ».</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Histogramme des notes du premier ds]]></title>
             <link>https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math</link>
