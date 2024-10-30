@@ -1,5 +1,5 @@
 ---
-title: Histogramme des notes du premier ds
+title: Histogramme des notes du deuxième ds
 authors: [ghaberer]
 tags: [math]
 ---
