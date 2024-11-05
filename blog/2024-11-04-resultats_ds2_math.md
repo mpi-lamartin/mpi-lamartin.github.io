@@ -1,6 +1,6 @@
 ---
-title: Histogramme des notes du deuxième ds
+title: Histogramme du ds2
 authors: [ghaberer]
 tags: [math]
 ---
-L'histogramme des notes est visible [ici](./docs/math/doc4)
+L'histogramme des notes de math est visible [ici](./docs/math/doc4)
