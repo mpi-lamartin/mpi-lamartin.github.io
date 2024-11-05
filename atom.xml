@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2024-11-04T00:00:00.000Z</updated>
+    <updated>2025-11-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Histogramme des notes du deuxième ds]]></title>
+        <title type="html"><![CDATA[Calendrier des concours]]></title>
+        <id>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</id>
+        <link href="https://mpi-lamartin.github.io/2025/11/05/calendrier_concours"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le calendrier des écrits est paru.]]></summary>
+        <content type="html"><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Histogramme du ds2]]></title>
         <id>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</id>
         <link href="https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math"/>
         <updated>2024-11-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L'histogramme des notes est visible ici]]></summary>
-        <content type="html"><![CDATA[<p>L'histogramme des notes est visible <a href="https://mpi-lamartin.github.io/2024/11/04/docs/math/doc4">ici</a></p>]]></content>
+        <summary type="html"><![CDATA[L'histogramme des notes de math est visible ici]]></summary>
+        <content type="html"><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/04/docs/math/doc4">ici</a></p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
@@ -40,12 +52,12 @@ sont disponibles.</p>
         <category label="Math" term="Math"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Histogramme des notes du premier ds]]></title>
+        <title type="html"><![CDATA[Histogramme du ds1]]></title>
         <id>https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math</id>
         <link href="https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math"/>
         <updated>2024-09-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L'histogramme des notes est visible ici]]></summary>
-        <content type="html"><![CDATA[<p>L'histogramme des notes est visible <a href="https://mpi-lamartin.github.io/2024/09/24/docs/math/doc4">ici</a></p>]]></content>
+        <summary type="html"><![CDATA[L'histogramme des notes de math est visible ici]]></summary>
+        <content type="html"><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/09/24/docs/math/doc4">ici</a></p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>

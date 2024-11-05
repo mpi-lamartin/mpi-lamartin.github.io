@@ -4,17 +4,26 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 04 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
         <item>
-            <title><![CDATA[Histogramme des notes du deuxième ds]]></title>
+            <title><![CDATA[Calendrier des concours]]></title>
+            <link>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</link>
+            <guid>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</guid>
+            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Le calendrier des écrits est paru.]]></description>
+            <content:encoded><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
+        <item>
+            <title><![CDATA[Histogramme du ds2]]></title>
             <link>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</link>
             <guid>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</guid>
             <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'histogramme des notes est visible ici]]></description>
-            <content:encoded><![CDATA[<p>L'histogramme des notes est visible <a href="https://mpi-lamartin.github.io/2024/11/04/docs/math/doc4">ici</a></p>]]></content:encoded>
+            <description><![CDATA[L'histogramme des notes de math est visible ici]]></description>
+            <content:encoded><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/04/docs/math/doc4">ici</a></p>]]></content:encoded>
             <category>Math</category>
         </item>
         <item>
@@ -35,12 +44,12 @@ sont disponibles.</p>
             <category>Math</category>
         </item>
         <item>
-            <title><![CDATA[Histogramme des notes du premier ds]]></title>
+            <title><![CDATA[Histogramme du ds1]]></title>
             <link>https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math</link>
             <guid>https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math</guid>
             <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'histogramme des notes est visible ici]]></description>
-            <content:encoded><![CDATA[<p>L'histogramme des notes est visible <a href="https://mpi-lamartin.github.io/2024/09/24/docs/math/doc4">ici</a></p>]]></content:encoded>
+            <description><![CDATA[L'histogramme des notes de math est visible ici]]></description>
+            <content:encoded><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/09/24/docs/math/doc4">ici</a></p>]]></content:encoded>
             <category>Math</category>
         </item>
         <item>
