@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-11-05T00:00:00.000Z</updated>
+    <updated>2025-11-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Certification PIX]]></title>
+        <id>https://mpi-lamartin.github.io/2025/11/07/certification_PIX</id>
+        <link href="https://mpi-lamartin.github.io/2025/11/07/certification_PIX"/>
+        <updated>2025-11-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Indiquez sur ce questionnaire si vous participez ou non à la certification PIX organisée le 3 décembre prochain.]]></summary>
+        <content type="html"><![CDATA[<p>Indiquez sur <a href="https://framadate.org/NZgiZDev1acOajkx" target="_blank" rel="noopener noreferrer">ce questionnaire</a> si vous participez ou non à la certification PIX organisée le 3 décembre prochain.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calendrier des concours]]></title>
         <id>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</id>

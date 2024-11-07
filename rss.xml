@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Wed, 05 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Certification PIX]]></title>
+            <link>https://mpi-lamartin.github.io/2025/11/07/certification_PIX</link>
+            <guid>https://mpi-lamartin.github.io/2025/11/07/certification_PIX</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Indiquez sur ce questionnaire si vous participez ou non à la certification PIX organisée le 3 décembre prochain.]]></description>
+            <content:encoded><![CDATA[<p>Indiquez sur <a href="https://framadate.org/NZgiZDev1acOajkx" target="_blank" rel="noopener noreferrer">ce questionnaire</a> si vous participez ou non à la certification PIX organisée le 3 décembre prochain.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Calendrier des concours]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</link>
