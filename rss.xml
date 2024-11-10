@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Fri, 07 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Calendrier TIPE]]></title>
+            <link>https://mpi-lamartin.github.io/2025/11/10/calendrier_tipe</link>
+            <guid>https://mpi-lamartin.github.io/2025/11/10/calendrier_tipe</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Retrouver dans la rubrique TIPE les dates importantes.]]></description>
+            <content:encoded><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2025/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content:encoded>
+            <category>tipe</category>
+        </item>
         <item>
             <title><![CDATA[Certification PIX]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/07/certification_PIX</link>
