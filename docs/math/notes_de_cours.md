@@ -50,6 +50,7 @@ sidebar_label: Mathématiques
 |[20241115](http://einexau.cluster028.hosting.ovh.net/site/math/20241115.pdf)|[20241115](http://einexau.cluster028.hosting.ovh.net/site/math/20241115.pdf)|
 |[20241120](http://einexau.cluster028.hosting.ovh.net/site/math/20241120.pdf)|[20241120](http://einexau.cluster028.hosting.ovh.net/site/math/20241120.pdf)|
 |[20241121](http://einexau.cluster028.hosting.ovh.net/site/math/20241121.pdf)|[20241121](http://einexau.cluster028.hosting.ovh.net/site/math/20241121.pdf)|
+|[20241122](http://einexau.cluster028.hosting.ovh.net/site/math/20241122.pdf)|[20241122](http://einexau.cluster028.hosting.ovh.net/site/math/20241122.pdf)|
 
 ## Les exercices à rédiger
 
@@ -71,8 +72,12 @@ sidebar_label: Mathématiques
 |[26.22](http://einexau.cluster028.hosting.ovh.net/site/math/26.22.pdf)|
 |[53.16](http://einexau.cluster028.hosting.ovh.net/site/math/53.16.pdf)|
 |[53.17](http://einexau.cluster028.hosting.ovh.net/site/math/53.17.pdf)|
+|[53.41](http://einexau.cluster028.hosting.ovh.net/site/math/53.41.pdf)|
+|[53.42](http://einexau.cluster028.hosting.ovh.net/site/math/53.42.pdf)|
 |[54.24](http://einexau.cluster028.hosting.ovh.net/site/math/54.24.pdf)|
 |[54.25](http://einexau.cluster028.hosting.ovh.net/site/math/54.25.pdf)|
+|[54.40](http://einexau.cluster028.hosting.ovh.net/site/math/54.40.pdf)|
+|[54.41](http://einexau.cluster028.hosting.ovh.net/site/math/54.41.pdf)|
 |[61.22](http://einexau.cluster028.hosting.ovh.net/site/math/61.22.pdf)|
 |[61.23](http://einexau.cluster028.hosting.ovh.net/site/math/61.23.pdf)|
 |[62.13](http://einexau.cluster028.hosting.ovh.net/site/math/62.13.pdf)|
@@ -81,3 +86,5 @@ sidebar_label: Mathématiques
 |[63.10](http://einexau.cluster028.hosting.ovh.net/site/math/63.10.pdf)|
 |[64.21](http://einexau.cluster028.hosting.ovh.net/site/math/64.21.pdf)|
 |[64.22](http://einexau.cluster028.hosting.ovh.net/site/math/64.22.pdf)|
+|[66.28](http://einexau.cluster028.hosting.ovh.net/site/math/66.28.pdf)|
+|[66.29](http://einexau.cluster028.hosting.ovh.net/site/math/66.29.pdf)|
