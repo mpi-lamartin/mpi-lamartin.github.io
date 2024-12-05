@@ -18,15 +18,6 @@
             <category>tipe</category>
         </item>
         <item>
-            <title><![CDATA[Certification PIX]]></title>
-            <link>https://mpi-lamartin.github.io/2025/11/07/certification_PIX</link>
-            <guid>https://mpi-lamartin.github.io/2025/11/07/certification_PIX</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Indiquez sur ce questionnaire si vous participez ou non à la certification PIX organisée le 3 décembre prochain.]]></description>
-            <content:encoded><![CDATA[<p>Indiquez sur <a href="https://framadate.org/NZgiZDev1acOajkx" target="_blank" rel="noopener noreferrer">ce questionnaire</a> si vous participez ou non à la certification PIX organisée le 3 décembre prochain.</p>]]></content:encoded>
-            <category>Organisation</category>
-        </item>
-        <item>
             <title><![CDATA[Calendrier des concours]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</link>
             <guid>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</guid>
@@ -36,12 +27,12 @@
             <category>Organisation</category>
         </item>
         <item>
-            <title><![CDATA[Histogramme du ds2]]></title>
-            <link>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</link>
-            <guid>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</guid>
-            <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'histogramme des notes de math est visible ici]]></description>
-            <content:encoded><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/04/docs/math/doc4">ici</a></p>]]></content:encoded>
+            <title><![CDATA[Histogrammes des ds]]></title>
+            <link>https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math</link>
+            <guid>https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math</guid>
+            <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les histogrammes des notes de math est visible ici]]></description>
+            <content:encoded><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/09/docs/math/doc4">ici</a></p>]]></content:encoded>
             <category>Math</category>
         </item>
         <item>
@@ -59,15 +50,6 @@
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.22.pdf" target="_blank" rel="noopener noreferrer">26.22</a>
 sont disponibles.</p>
 <p>À noter qu'il y a une erreur dans l'énoncé de l'exercice 24.30 : il faut lire « T(f)(0) = f(0) ».</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Histogramme du ds1]]></title>
-            <link>https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math</link>
-            <guid>https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'histogramme des notes de math est visible ici]]></description>
-            <content:encoded><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/09/24/docs/math/doc4">ici</a></p>]]></content:encoded>
             <category>Math</category>
         </item>
         <item>

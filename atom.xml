@@ -26,18 +26,6 @@
         <category label="tipe" term="tipe"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Certification PIX]]></title>
-        <id>https://mpi-lamartin.github.io/2025/11/07/certification_PIX</id>
-        <link href="https://mpi-lamartin.github.io/2025/11/07/certification_PIX"/>
-        <updated>2025-11-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Indiquez sur ce questionnaire si vous participez ou non à la certification PIX organisée le 3 décembre prochain.]]></summary>
-        <content type="html"><![CDATA[<p>Indiquez sur <a href="https://framadate.org/NZgiZDev1acOajkx" target="_blank" rel="noopener noreferrer">ce questionnaire</a> si vous participez ou non à la certification PIX organisée le 3 décembre prochain.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Calendrier des concours]]></title>
         <id>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</id>
         <link href="https://mpi-lamartin.github.io/2025/11/05/calendrier_concours"/>
@@ -50,12 +38,12 @@
         <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Histogramme du ds2]]></title>
-        <id>https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math</id>
-        <link href="https://mpi-lamartin.github.io/2024/11/04/resultats_ds2_math"/>
-        <updated>2024-11-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L'histogramme des notes de math est visible ici]]></summary>
-        <content type="html"><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/04/docs/math/doc4">ici</a></p>]]></content>
+        <title type="html"><![CDATA[Histogrammes des ds]]></title>
+        <id>https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math</id>
+        <link href="https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math"/>
+        <updated>2024-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les histogrammes des notes de math est visible ici]]></summary>
+        <content type="html"><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/09/docs/math/doc4">ici</a></p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
@@ -76,18 +64,6 @@
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.22.pdf" target="_blank" rel="noopener noreferrer">26.22</a>
 sont disponibles.</p>
 <p>À noter qu'il y a une erreur dans l'énoncé de l'exercice 24.30 : il faut lire « T(f)(0) = f(0) ».</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Histogramme du ds1]]></title>
-        <id>https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math</id>
-        <link href="https://mpi-lamartin.github.io/2024/09/24/resultats_ds1_math"/>
-        <updated>2024-09-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L'histogramme des notes de math est visible ici]]></summary>
-        <content type="html"><![CDATA[<p>L'histogramme des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/09/24/docs/math/doc4">ici</a></p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
