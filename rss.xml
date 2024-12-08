@@ -4,27 +4,27 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
         <item>
-            <title><![CDATA[Calendrier TIPE]]></title>
-            <link>https://mpi-lamartin.github.io/2025/11/10/calendrier_tipe</link>
-            <guid>https://mpi-lamartin.github.io/2025/11/10/calendrier_tipe</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Retrouver dans la rubrique TIPE les dates importantes.]]></description>
-            <content:encoded><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2025/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content:encoded>
-            <category>tipe</category>
+            <title><![CDATA[Un exercice corrigé]]></title>
+            <link>https://mpi-lamartin.github.io/2024/12/08/un_exercice</link>
+            <guid>https://mpi-lamartin.github.io/2024/12/08/un_exercice</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».]]></description>
+            <content:encoded><![CDATA[<p>Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».</p>]]></content:encoded>
+            <category>Math</category>
         </item>
         <item>
-            <title><![CDATA[Calendrier des concours]]></title>
-            <link>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</link>
-            <guid>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Le calendrier des écrits est paru.]]></description>
-            <content:encoded><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content:encoded>
-            <category>Organisation</category>
+            <title><![CDATA[Calendrier TIPE]]></title>
+            <link>https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe</link>
+            <guid>https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe</guid>
+            <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Retrouver dans la rubrique TIPE les dates importantes.]]></description>
+            <content:encoded><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2024/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content:encoded>
+            <category>tipe</category>
         </item>
         <item>
             <title><![CDATA[Histogrammes des ds]]></title>
@@ -34,6 +34,15 @@
             <description><![CDATA[Les histogrammes des notes de math est visible ici]]></description>
             <content:encoded><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/09/docs/math/doc4">ici</a></p>]]></content:encoded>
             <category>Math</category>
+        </item>
+        <item>
+            <title><![CDATA[Calendrier des concours]]></title>
+            <link>https://mpi-lamartin.github.io/2024/11/05/calendrier_concours</link>
+            <guid>https://mpi-lamartin.github.io/2024/11/05/calendrier_concours</guid>
+            <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Le calendrier des écrits est paru.]]></description>
+            <content:encoded><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content:encoded>
+            <category>Organisation</category>
         </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>

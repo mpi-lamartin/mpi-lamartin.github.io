@@ -2,18 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-11-10T00:00:00.000Z</updated>
+    <updated>2024-12-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Un exercice corrigé]]></title>
+        <id>https://mpi-lamartin.github.io/2024/12/08/un_exercice</id>
+        <link href="https://mpi-lamartin.github.io/2024/12/08/un_exercice"/>
+        <updated>2024-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».]]></summary>
+        <content type="html"><![CDATA[<p>Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Calendrier TIPE]]></title>
-        <id>https://mpi-lamartin.github.io/2025/11/10/calendrier_tipe</id>
-        <link href="https://mpi-lamartin.github.io/2025/11/10/calendrier_tipe"/>
-        <updated>2025-11-10T00:00:00.000Z</updated>
+        <id>https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe</id>
+        <link href="https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe"/>
+        <updated>2024-11-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Retrouver dans la rubrique TIPE les dates importantes.]]></summary>
-        <content type="html"><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2025/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content>
+        <content type="html"><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2024/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
@@ -26,18 +38,6 @@
         <category label="tipe" term="tipe"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calendrier des concours]]></title>
-        <id>https://mpi-lamartin.github.io/2025/11/05/calendrier_concours</id>
-        <link href="https://mpi-lamartin.github.io/2025/11/05/calendrier_concours"/>
-        <updated>2025-11-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Le calendrier des écrits est paru.]]></summary>
-        <content type="html"><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Histogrammes des ds]]></title>
         <id>https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math</id>
         <link href="https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math"/>
@@ -48,6 +48,18 @@
             <name>Guillaume Haberer</name>
         </author>
         <category label="Math" term="Math"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calendrier des concours]]></title>
+        <id>https://mpi-lamartin.github.io/2024/11/05/calendrier_concours</id>
+        <link href="https://mpi-lamartin.github.io/2024/11/05/calendrier_concours"/>
+        <updated>2024-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le calendrier des écrits est paru.]]></summary>
+        <content type="html"><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Exercices à rédiger]]></title>
