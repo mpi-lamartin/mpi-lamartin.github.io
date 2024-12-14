@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 09 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Rotations TP info]]></title>
+            <link>https://mpi-lamartin.github.io/2024/12/14/modif_rotations_TP_info</link>
+            <guid>https://mpi-lamartin.github.io/2024/12/14/modif_rotations_TP_info</guid>
+            <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Une erreur s'est glissée dans les rotations des TP d'info. C'est maintenant rectifié sur le colloscope]]></description>
+            <content:encoded><![CDATA[<p>Une erreur s'est glissée dans les rotations des TP d'info. C'est maintenant rectifié sur le <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">colloscope</a></p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[màj banque CCINP]]></title>
             <link>https://mpi-lamartin.github.io/2024/12/09/maj_banque_ccinp</link>
