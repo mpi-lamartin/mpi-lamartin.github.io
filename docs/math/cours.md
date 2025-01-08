@@ -81,6 +81,7 @@ Des fonctions d'une variable réelle
 |Intégration sur un intervalle quelconque|[66](./66.pdf)|[66](./66e.pdf)|
 |Intégrales à paramètre|[67](./67.pdf)|[67](./67e.pdf)|
 |Équations différentielles linéaires|[68](./68.pdf)|[68](./68e.pdf)|
+|Résolution pratique des équations différentielles linéaires|[69](./69.pdf)|[69](./69e.pdf)|
 
 ### 7. Calcul différentiel
 Des fonctions de plusieurs variables
