@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2024-12-14T00:00:00.000Z</updated>
+    <updated>2025-01-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Deux exos de proba]]></title>
+        <id>https://mpi-lamartin.github.io/2025/01/14/deux_exercices_de_proba</id>
+        <link href="https://mpi-lamartin.github.io/2025/01/14/deux_exercices_de_proba"/>
+        <updated>2025-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[84.34]]></summary>
+        <content type="html"><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/84.34.pdf" target="_blank" rel="noopener noreferrer">84.34</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/84.35.pdf" target="_blank" rel="noopener noreferrer">84.35</a>
+sont disponibles.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotations TP info]]></title>
         <id>https://mpi-lamartin.github.io/2024/12/14/modif_rotations_TP_info</id>

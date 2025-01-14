@@ -4,10 +4,21 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Sat, 14 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Deux exos de proba]]></title>
+            <link>https://mpi-lamartin.github.io/2025/01/14/deux_exercices_de_proba</link>
+            <guid>https://mpi-lamartin.github.io/2025/01/14/deux_exercices_de_proba</guid>
+            <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[84.34]]></description>
+            <content:encoded><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/84.34.pdf" target="_blank" rel="noopener noreferrer">84.34</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/84.35.pdf" target="_blank" rel="noopener noreferrer">84.35</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Rotations TP info]]></title>
             <link>https://mpi-lamartin.github.io/2024/12/14/modif_rotations_TP_info</link>
