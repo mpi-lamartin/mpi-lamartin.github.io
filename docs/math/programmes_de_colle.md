@@ -32,4 +32,4 @@ Les liens seront actifs au fur et à mesure de l'avancée du cours.
 
 | | | |
 | ----------- | ----------- | ----------- |
-|Banque oral CCINP|[sans corrigés](./2024_CCINP_sans_corrections.pdf)|[avec corrigés](./2024_CCINP_avec_corrections.pdf)|
+|Banque oral CCINP|[sans corrigés](./2025_CCINP_sans_corrections.pdf)|[avec corrigés](./2025_CCINP_avec_corrections.pdf)|
