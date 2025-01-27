@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-01-20T00:00:00.000Z</updated>
+    <updated>2025-01-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Histogrammes des ds]]></title>
+        <id>https://mpi-lamartin.github.io/2025/01/28/resultats_ds_math</id>
+        <link href="https://mpi-lamartin.github.io/2025/01/28/resultats_ds_math"/>
+        <updated>2025-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les histogrammes des notes de math est visible ici]]></summary>
+        <content type="html"><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2025/01/28/docs/math/doc4">ici</a></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quatre exercices corrigés]]></title>
+        <id>https://mpi-lamartin.github.io/2025/01/27/quatre_exos</id>
+        <link href="https://mpi-lamartin.github.io/2025/01/27/quatre_exos"/>
+        <updated>2025-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[44.11]]></summary>
+        <content type="html"><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/44.11.pdf" target="_blank" rel="noopener noreferrer">44.11</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/44.12.pdf" target="_blank" rel="noopener noreferrer">44.12</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/45.16.pdf" target="_blank" rel="noopener noreferrer">45.16</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/45.17.pdf" target="_blank" rel="noopener noreferrer">45.17</a>
+sont disponibles.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Six exercices corrigés]]></title>
         <id>https://mpi-lamartin.github.io/2025/01/20/six_exos</id>

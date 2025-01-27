@@ -4,10 +4,32 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Histogrammes des ds]]></title>
+            <link>https://mpi-lamartin.github.io/2025/01/28/resultats_ds_math</link>
+            <guid>https://mpi-lamartin.github.io/2025/01/28/resultats_ds_math</guid>
+            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les histogrammes des notes de math est visible ici]]></description>
+            <content:encoded><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2025/01/28/docs/math/doc4">ici</a></p>]]></content:encoded>
+            <category>Math</category>
+        </item>
+        <item>
+            <title><![CDATA[Quatre exercices corrigés]]></title>
+            <link>https://mpi-lamartin.github.io/2025/01/27/quatre_exos</link>
+            <guid>https://mpi-lamartin.github.io/2025/01/27/quatre_exos</guid>
+            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[44.11]]></description>
+            <content:encoded><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/44.11.pdf" target="_blank" rel="noopener noreferrer">44.11</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/44.12.pdf" target="_blank" rel="noopener noreferrer">44.12</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/45.16.pdf" target="_blank" rel="noopener noreferrer">45.16</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/45.17.pdf" target="_blank" rel="noopener noreferrer">45.17</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Six exercices corrigés]]></title>
             <link>https://mpi-lamartin.github.io/2025/01/20/six_exos</link>
