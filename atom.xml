@@ -20,6 +20,19 @@
         <category label="Math" term="Math"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Un exercice corrigé]]></title>
+        <id>https://mpi-lamartin.github.io/2025/01/28/un_exo</id>
+        <link href="https://mpi-lamartin.github.io/2025/01/28/un_exo"/>
+        <updated>2025-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[32.3]]></summary>
+        <content type="html"><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/32.3.pdf" target="_blank" rel="noopener noreferrer">32.3</a>
+est disponible.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quatre exercices corrigés]]></title>
         <id>https://mpi-lamartin.github.io/2025/01/27/quatre_exos</id>
         <link href="https://mpi-lamartin.github.io/2025/01/27/quatre_exos"/>
