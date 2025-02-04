@@ -51,7 +51,7 @@ Des espaces vectoriels normés
 |Limite, continuité des fonctions entre evn|[44](./44.pdf)|[44](./44e.pdf)|
 |Continuité des applications linéaires|[45](./45.pdf)|[45](./45e.pdf)|
 |Compacité|[46](./46.pdf)|[46](./46e.pdf)|
-|Espaces normés de dimension finie|[47](./47.pdf)|[47](./47e.pdf)|
+|Dérivation, intégration des fonctions à valeurs dans un evn|[47](./47.pdf)|[47](./47e.pdf)|
 |Connexité|[48](./48.pdf)|[48](./48e.pdf)|
 
 ### 5. Analyse discrète
