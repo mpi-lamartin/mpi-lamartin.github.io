@@ -8,6 +8,18 @@
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Énoncé 58.1]]></title>
+        <id>https://mpi-lamartin.github.io/2025/02/07/correction_d_un_enonce</id>
+        <link href="https://mpi-lamartin.github.io/2025/02/07/correction_d_un_enonce"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[La fin de l'énoncé de l'exercice 58.1 était erroné.]]></summary>
+        <content type="html"><![CDATA[<p>La fin de l'énoncé de l'exercice <a href="https://mpi-lamartin.github.io/2025/02/07/docs/math/enonce_58.1.pdf">58.1</a> était erroné.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Norme sous-multiplicative]]></title>
         <id>https://mpi-lamartin.github.io/2025/02/07/norme_matricielle</id>
         <link href="https://mpi-lamartin.github.io/2025/02/07/norme_matricielle"/>
@@ -272,35 +284,5 @@ sont disponibles.</p>
             <name>Guillaume Haberer</name>
         </author>
         <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C'est la rentrée !]]></title>
-        <id>https://mpi-lamartin.github.io/rentree</id>
-        <link href="https://mpi-lamartin.github.io/rentree"/>
-        <updated>2024-09-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></summary>
-        <content type="html"><![CDATA[<p><del>Merci de <a href="https://forms.gle/TRer2BKsS8EXhfAJA" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></del></p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <author>
-            <name>Quentin Fortier</name>
-        </author>
-        <author>
-            <name>Laurent Hache</name>
-        </author>
-        <author>
-            <name>Lee Smart</name>
-        </author>
-        <author>
-            <name>Florence Debaecker</name>
-        </author>
-        <author>
-            <name>Mathieu Gonod</name>
-        </author>
-        <author>
-            <name>Marie-Aude de Langenhagen</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
     </entry>
 </feed>

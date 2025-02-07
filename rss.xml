@@ -9,6 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
         <item>
+            <title><![CDATA[Énoncé 58.1]]></title>
+            <link>https://mpi-lamartin.github.io/2025/02/07/correction_d_un_enonce</link>
+            <guid>https://mpi-lamartin.github.io/2025/02/07/correction_d_un_enonce</guid>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[La fin de l'énoncé de l'exercice 58.1 était erroné.]]></description>
+            <content:encoded><![CDATA[<p>La fin de l'énoncé de l'exercice <a href="https://mpi-lamartin.github.io/2025/02/07/docs/math/enonce_58.1.pdf">58.1</a> était erroné.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
+        <item>
             <title><![CDATA[Norme sous-multiplicative]]></title>
             <link>https://mpi-lamartin.github.io/2025/02/07/norme_matricielle</link>
             <guid>https://mpi-lamartin.github.io/2025/02/07/norme_matricielle</guid>
@@ -207,15 +216,6 @@ sont disponibles.</p>
             <description><![CDATA[Il y avait une coquille dans les corrigés des exercices 62.13 et 62.14, c'est rectifié.]]></description>
             <content:encoded><![CDATA[<p>Il y avait une coquille dans les corrigés des exercices <a href="http://einexau.cluster028.hosting.ovh.net/site/math/62.13.pdf" target="_blank" rel="noopener noreferrer">62.13</a> et <a href="http://einexau.cluster028.hosting.ovh.net/site/math/62.14.pdf" target="_blank" rel="noopener noreferrer">62.14</a>, c'est rectifié.</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[C'est la rentrée !]]></title>
-            <link>https://mpi-lamartin.github.io/rentree</link>
-            <guid>https://mpi-lamartin.github.io/rentree</guid>
-            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></description>
-            <content:encoded><![CDATA[<p><del>Merci de <a href="https://forms.gle/TRer2BKsS8EXhfAJA" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></del></p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
     </channel>
 </rss>
