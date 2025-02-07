@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Norme sous-multiplicative]]></title>
+            <link>https://mpi-lamartin.github.io/2025/02/07/norme_matricielle</link>
+            <guid>https://mpi-lamartin.github.io/2025/02/07/norme_matricielle</guid>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pourquoi la norme matricielle est sous-multiplicative]]></description>
+            <content:encoded><![CDATA[<p>Pourquoi <a href="http://einexau.cluster028.hosting.ovh.net/site/math/norme_matricielle_euclidienne_sous_multiplicative.pdf" target="_blank" rel="noopener noreferrer">la norme matricielle est sous-multiplicative</a></p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Un exercice corrigé]]></title>
             <link>https://mpi-lamartin.github.io/2025/02/04/un_exo</link>
@@ -207,15 +216,6 @@ sont disponibles.</p>
             <description><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></description>
             <content:encoded><![CDATA[<p><del>Merci de <a href="https://forms.gle/TRer2BKsS8EXhfAJA" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></del></p>]]></content:encoded>
             <category>Organisation</category>
-        </item>
-        <item>
-            <title><![CDATA[Rubrique mathématiques]]></title>
-            <link>https://mpi-lamartin.github.io/math</link>
-            <guid>https://mpi-lamartin.github.io/math</guid>
-            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[On trouve dans la rubrique Mathématiques les polys et les notes de cours.]]></description>
-            <content:encoded><![CDATA[<p>On trouve dans la rubrique <strong>Mathématiques</strong> <a href="https://mpi-lamartin.github.io/docs/math/doc1">les polys</a> et <a href="https://mpi-lamartin.github.io/docs/math/doc2">les notes de cours</a>.</p>]]></content:encoded>
-            <category>Math</category>
         </item>
     </channel>
 </rss>

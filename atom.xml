@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-02-04T00:00:00.000Z</updated>
+    <updated>2025-02-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Norme sous-multiplicative]]></title>
+        <id>https://mpi-lamartin.github.io/2025/02/07/norme_matricielle</id>
+        <link href="https://mpi-lamartin.github.io/2025/02/07/norme_matricielle"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pourquoi la norme matricielle est sous-multiplicative]]></summary>
+        <content type="html"><![CDATA[<p>Pourquoi <a href="http://einexau.cluster028.hosting.ovh.net/site/math/norme_matricielle_euclidienne_sous_multiplicative.pdf" target="_blank" rel="noopener noreferrer">la norme matricielle est sous-multiplicative</a></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Un exercice corrigé]]></title>
         <id>https://mpi-lamartin.github.io/2025/02/04/un_exo</id>
@@ -290,17 +302,5 @@ sont disponibles.</p>
             <name>Marie-Aude de Langenhagen</name>
         </author>
         <category label="Organisation" term="Organisation"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubrique mathématiques]]></title>
-        <id>https://mpi-lamartin.github.io/math</id>
-        <link href="https://mpi-lamartin.github.io/math"/>
-        <updated>2024-08-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On trouve dans la rubrique Mathématiques les polys et les notes de cours.]]></summary>
-        <content type="html"><![CDATA[<p>On trouve dans la rubrique <strong>Mathématiques</strong> <a href="https://mpi-lamartin.github.io/docs/math/doc1">les polys</a> et <a href="https://mpi-lamartin.github.io/docs/math/doc2">les notes de cours</a>.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
     </entry>
 </feed>
