@@ -4,10 +4,24 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Cinq exercices corrigés]]></title>
+            <link>https://mpi-lamartin.github.io/2025/02/10/cinq_exos</link>
+            <guid>https://mpi-lamartin.github.io/2025/02/10/cinq_exos</guid>
+            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[46.9]]></description>
+            <content:encoded><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/46.9.pdf" target="_blank" rel="noopener noreferrer">46.9</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/46.10.pdf" target="_blank" rel="noopener noreferrer">46.10</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/47.4.pdf" target="_blank" rel="noopener noreferrer">47.4</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/57.13.pdf" target="_blank" rel="noopener noreferrer">57.13</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/58.1.pdf" target="_blank" rel="noopener noreferrer">58.1</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Énoncé 58.1]]></title>
             <link>https://mpi-lamartin.github.io/2025/02/07/correction_d_un_enonce</link>
@@ -207,15 +221,6 @@ sont disponibles.</p>
 <p>Merci de me faire remonter toute anomalie repérée.</p>
 <p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content:encoded>
             <category>Organisation</category>
-        </item>
-        <item>
-            <title><![CDATA[Coquille corrigés 62.13 et 62.14]]></title>
-            <link>https://mpi-lamartin.github.io/2024/09/12/coquille-61.14</link>
-            <guid>https://mpi-lamartin.github.io/2024/09/12/coquille-61.14</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Il y avait une coquille dans les corrigés des exercices 62.13 et 62.14, c'est rectifié.]]></description>
-            <content:encoded><![CDATA[<p>Il y avait une coquille dans les corrigés des exercices <a href="http://einexau.cluster028.hosting.ovh.net/site/math/62.13.pdf" target="_blank" rel="noopener noreferrer">62.13</a> et <a href="http://einexau.cluster028.hosting.ovh.net/site/math/62.14.pdf" target="_blank" rel="noopener noreferrer">62.14</a>, c'est rectifié.</p>]]></content:encoded>
-            <category>Math</category>
         </item>
     </channel>
 </rss>
