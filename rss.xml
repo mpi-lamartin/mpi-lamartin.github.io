@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Histogrammes des ds]]></title>
+            <link>https://mpi-lamartin.github.io/2025/02/11/resultats_ds_math</link>
+            <guid>https://mpi-lamartin.github.io/2025/02/11/resultats_ds_math</guid>
+            <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les histogrammes des notes de math est visible ici]]></description>
+            <content:encoded><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2025/02/11/docs/math/doc4">ici</a></p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Cinq exercices corrigés]]></title>
             <link>https://mpi-lamartin.github.io/2025/02/10/cinq_exos</link>
@@ -208,19 +217,6 @@ sont disponibles.</p>
             <description><![CDATA[Les documents utiles pour les colles d'anglais sont ici, à télécharger en avance sur les téléphones.]]></description>
             <content:encoded><![CDATA[<p>Les documents utiles pour les colles d'anglais sont <a href="https://nuage04.apps.education.fr/index.php/s/3tYK7XHDw6aozRP" target="_blank" rel="noopener noreferrer">ici</a>, à télécharger en avance sur les téléphones.</p>]]></content:encoded>
             <category>Divers</category>
-        </item>
-        <item>
-            <title><![CDATA[Colloscope]]></title>
-            <link>https://mpi-lamartin.github.io/2024/09/14/colloscope_beta</link>
-            <guid>https://mpi-lamartin.github.io/2024/09/14/colloscope_beta</guid>
-            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Le colloscope en version définitive est disponible.]]></description>
-            <content:encoded><![CDATA[<p>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version définitive</a> est disponible.</p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</del></p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
-<p>Merci de me faire remonter toute anomalie repérée.</p>
-<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
     </channel>
 </rss>

@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-02-10T00:00:00.000Z</updated>
+    <updated>2025-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Histogrammes des ds]]></title>
+        <id>https://mpi-lamartin.github.io/2025/02/11/resultats_ds_math</id>
+        <link href="https://mpi-lamartin.github.io/2025/02/11/resultats_ds_math"/>
+        <updated>2025-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les histogrammes des notes de math est visible ici]]></summary>
+        <content type="html"><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2025/02/11/docs/math/doc4">ici</a></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cinq exercices corrigés]]></title>
         <id>https://mpi-lamartin.github.io/2025/02/10/cinq_exos</id>
@@ -273,21 +285,5 @@ sont disponibles.</p>
             <name>Lee Smart</name>
         </author>
         <category label="Divers" term="Divers"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colloscope]]></title>
-        <id>https://mpi-lamartin.github.io/2024/09/14/colloscope_beta</id>
-        <link href="https://mpi-lamartin.github.io/2024/09/14/colloscope_beta"/>
-        <updated>2024-09-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Le colloscope en version définitive est disponible.]]></summary>
-        <content type="html"><![CDATA[<p>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version définitive</a> est disponible.</p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.2</a>.</del></p>
-<p><del>Une erreur s'était glissée dans le colloscope, qui passe en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta 1.1</a>.</del></p>
-<p>Merci de me faire remonter toute anomalie repérée.</p>
-<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8gyOfI5XbKXQOeh5ksQy02q8Tx4WoitM5jXXrABhH-chz_ptecW88_f1MUTrZjGI9wIE60NRdt2Gj/pubhtml?gid=1331545935&amp;single=true" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
     </entry>
 </feed>
