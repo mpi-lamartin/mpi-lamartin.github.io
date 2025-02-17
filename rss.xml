@@ -4,10 +4,21 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Deux exercices corrigés]]></title>
+            <link>https://mpi-lamartin.github.io/2025/02/17/deux_exos</link>
+            <guid>https://mpi-lamartin.github.io/2025/02/17/deux_exos</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[32.23]]></description>
+            <content:encoded><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/32.23.pdf" target="_blank" rel="noopener noreferrer">32.23</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/32.24.pdf" target="_blank" rel="noopener noreferrer">32.24</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Histogrammes des ds]]></title>
             <link>https://mpi-lamartin.github.io/2025/02/11/resultats_ds_math</link>
@@ -208,15 +219,6 @@ sont disponibles.</p>]]></content:encoded>
 sont disponibles.</p>
 <p>À noter qu'il y a une erreur dans l'énoncé de l'exercice 24.30 : il faut lire « T(f)(0) = f(0) ».</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Documents pour les colles d'anglais]]></title>
-            <link>https://mpi-lamartin.github.io/2024/09/15/colles_anglais</link>
-            <guid>https://mpi-lamartin.github.io/2024/09/15/colles_anglais</guid>
-            <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Les documents utiles pour les colles d'anglais sont ici, à télécharger en avance sur les téléphones.]]></description>
-            <content:encoded><![CDATA[<p>Les documents utiles pour les colles d'anglais sont <a href="https://nuage04.apps.education.fr/index.php/s/3tYK7XHDw6aozRP" target="_blank" rel="noopener noreferrer">ici</a>, à télécharger en avance sur les téléphones.</p>]]></content:encoded>
-            <category>Divers</category>
         </item>
     </channel>
 </rss>
