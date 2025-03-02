@@ -116,6 +116,11 @@ const config: Config = {
             },
             {
               type: 'doc',
+              docId: 'math/revision',
+              label: 'Les sujets de révision',
+            },
+            {
+              type: 'doc',
               docId: 'math/doc4',
               label: 'Les devoirs',
             },
