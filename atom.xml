@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-02-17T00:00:00.000Z</updated>
+    <updated>2025-03-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dix sujets de révision]]></title>
+        <id>https://mpi-lamartin.github.io/2025/03/03/sujets_revision</id>
+        <link href="https://mpi-lamartin.github.io/2025/03/03/sujets_revision"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Des sujets sélectionnés pour les révisions sont proposés ici]]></summary>
+        <content type="html"><![CDATA[<p>Des sujets sélectionnés pour les révisions sont proposés <a href="https://mpi-lamartin.github.io/2025/03/03/docs/math/revision">ici</a></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deux exercices corrigés]]></title>
         <id>https://mpi-lamartin.github.io/2025/02/17/deux_exos</id>
@@ -264,25 +276,5 @@ sont disponibles.</p>]]></content>
             <name>Guillaume Haberer</name>
         </author>
         <category label="Organisation" term="Organisation"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exercices à rédiger]]></title>
-        <id>https://mpi-lamartin.github.io/2024/10/30/exercices_corriges</id>
-        <link href="https://mpi-lamartin.github.io/2024/10/30/exercices_corriges"/>
-        <updated>2024-10-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Les corrigés des exercices]]></summary>
-        <content type="html"><![CDATA[<p>Les corrigés des exercices
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/24.29.pdf" target="_blank" rel="noopener noreferrer">24.29</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/24.30.pdf" target="_blank" rel="noopener noreferrer">24.30</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/25.10.pdf" target="_blank" rel="noopener noreferrer">25.10</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/25.11.pdf" target="_blank" rel="noopener noreferrer">25.11</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.21.pdf" target="_blank" rel="noopener noreferrer">26.21</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.22.pdf" target="_blank" rel="noopener noreferrer">26.22</a>
-sont disponibles.</p>
-<p>À noter qu'il y a une erreur dans l'énoncé de l'exercice 24.30 : il faut lire « T(f)(0) = f(0) ».</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
     </entry>
 </feed>

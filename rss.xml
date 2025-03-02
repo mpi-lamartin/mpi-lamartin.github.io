@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Dix sujets de révision]]></title>
+            <link>https://mpi-lamartin.github.io/2025/03/03/sujets_revision</link>
+            <guid>https://mpi-lamartin.github.io/2025/03/03/sujets_revision</guid>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Des sujets sélectionnés pour les révisions sont proposés ici]]></description>
+            <content:encoded><![CDATA[<p>Des sujets sélectionnés pour les révisions sont proposés <a href="https://mpi-lamartin.github.io/2025/03/03/docs/math/revision">ici</a></p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Deux exercices corrigés]]></title>
             <link>https://mpi-lamartin.github.io/2025/02/17/deux_exos</link>
@@ -202,23 +211,6 @@ sont disponibles.</p>]]></content:encoded>
             <description><![CDATA[Le calendrier des écrits est paru.]]></description>
             <content:encoded><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content:encoded>
             <category>Organisation</category>
-        </item>
-        <item>
-            <title><![CDATA[Exercices à rédiger]]></title>
-            <link>https://mpi-lamartin.github.io/2024/10/30/exercices_corriges</link>
-            <guid>https://mpi-lamartin.github.io/2024/10/30/exercices_corriges</guid>
-            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Les corrigés des exercices]]></description>
-            <content:encoded><![CDATA[<p>Les corrigés des exercices
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/24.29.pdf" target="_blank" rel="noopener noreferrer">24.29</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/24.30.pdf" target="_blank" rel="noopener noreferrer">24.30</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/25.10.pdf" target="_blank" rel="noopener noreferrer">25.10</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/25.11.pdf" target="_blank" rel="noopener noreferrer">25.11</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.21.pdf" target="_blank" rel="noopener noreferrer">26.21</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/26.22.pdf" target="_blank" rel="noopener noreferrer">26.22</a>
-sont disponibles.</p>
-<p>À noter qu'il y a une erreur dans l'énoncé de l'exercice 24.30 : il faut lire « T(f)(0) = f(0) ».</p>]]></content:encoded>
-            <category>Math</category>
         </item>
     </channel>
 </rss>
