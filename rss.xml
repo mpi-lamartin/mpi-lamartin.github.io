@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Emploi du temps - préparation aux écrits]]></title>
+            <link>https://mpi-lamartin.github.io/2025/03/13/emploi_du_temps_revisions</link>
+            <guid>https://mpi-lamartin.github.io/2025/03/13/emploi_du_temps_revisions</guid>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'emploi du temps des jours à venir est ici]]></description>
+            <content:encoded><![CDATA[<p>L'emploi du temps des jours à venir est <a href="https://mpi-lamartin.github.io/assets/files/EDT_MPI_MPIetoile_mars_avril-633520c539c9a94d164229d8565dfe22.pdf" target="_blank">ici</a></p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Dix sujets de révision]]></title>
             <link>https://mpi-lamartin.github.io/2025/03/03/sujets_revision</link>
@@ -202,15 +211,6 @@ sont disponibles.</p>]]></content:encoded>
             <description><![CDATA[Les histogrammes des notes de math est visible ici]]></description>
             <content:encoded><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/09/docs/math/doc4">ici</a></p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Calendrier des concours]]></title>
-            <link>https://mpi-lamartin.github.io/2024/11/05/calendrier_concours</link>
-            <guid>https://mpi-lamartin.github.io/2024/11/05/calendrier_concours</guid>
-            <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Le calendrier des écrits est paru.]]></description>
-            <content:encoded><![CDATA[<p>Le <a href="https://www.scei-concours.fr/calendrier.php" target="_blank" rel="noopener noreferrer">calendrier des écrits</a> est paru.</p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
     </channel>
 </rss>
