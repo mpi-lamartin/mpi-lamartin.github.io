@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-03-13T00:00:00.000Z</updated>
+    <updated>2025-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Emploi du temps - préparation aux oraux]]></title>
+        <id>https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral</id>
+        <link href="https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral"/>
+        <updated>2025-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[L'emploi du temps pour la préparation aux oraux]]></summary>
+        <content type="html"><![CDATA[<p>L'emploi du temps pour <a href="https://mpi-lamartin.github.io/assets/files/EDT_MPI_MPIetoile_mai_juin-859cd8c31db5ceb836e7d0ef5e63217d.pdf" target="_blank">la préparation aux oraux</a></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emploi du temps - préparation aux écrits]]></title>
         <id>https://mpi-lamartin.github.io/2025/03/13/emploi_du_temps_revisions</id>
@@ -264,17 +276,5 @@ sont disponibles.</p>]]></content>
             <name>Laurent Hache</name>
         </author>
         <category label="tipe" term="tipe"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Histogrammes des ds]]></title>
-        <id>https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math</id>
-        <link href="https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math"/>
-        <updated>2024-11-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Les histogrammes des notes de math est visible ici]]></summary>
-        <content type="html"><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/09/docs/math/doc4">ici</a></p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
     </entry>
 </feed>

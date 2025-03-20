@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Thu, 13 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Emploi du temps - préparation aux oraux]]></title>
+            <link>https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral</link>
+            <guid>https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'emploi du temps pour la préparation aux oraux]]></description>
+            <content:encoded><![CDATA[<p>L'emploi du temps pour <a href="https://mpi-lamartin.github.io/assets/files/EDT_MPI_MPIetoile_mai_juin-859cd8c31db5ceb836e7d0ef5e63217d.pdf" target="_blank">la préparation aux oraux</a></p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Emploi du temps - préparation aux écrits]]></title>
             <link>https://mpi-lamartin.github.io/2025/03/13/emploi_du_temps_revisions</link>
@@ -202,15 +211,6 @@ sont disponibles.</p>]]></content:encoded>
             <description><![CDATA[Retrouver dans la rubrique TIPE les dates importantes.]]></description>
             <content:encoded><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2024/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content:encoded>
             <category>tipe</category>
-        </item>
-        <item>
-            <title><![CDATA[Histogrammes des ds]]></title>
-            <link>https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math</link>
-            <guid>https://mpi-lamartin.github.io/2024/11/09/resultats_ds_math</guid>
-            <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Les histogrammes des notes de math est visible ici]]></description>
-            <content:encoded><![CDATA[<p>Les histogrammes des notes de math est visible <a href="https://mpi-lamartin.github.io/2024/11/09/docs/math/doc4">ici</a></p>]]></content:encoded>
-            <category>Math</category>
         </item>
     </channel>
 </rss>
