@@ -16,6 +16,7 @@ sidebar_label: Mathématiques
 ||MP/MPI 1|MP/MPI 2|
 |-|:-:|:-:|
 |CCINP|[2022](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2022_MP_Mathematiques_2_e.pdf)|[2023](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2023_MPI_Mathematiques_1_e.pdf)|
+|||[2010](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2010_MP_Mathematiques_2_e.pdf)|
 
 
 ## Des sujets de révision Centrale
