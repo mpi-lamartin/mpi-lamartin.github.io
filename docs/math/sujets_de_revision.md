@@ -20,6 +20,8 @@ sidebar_label: Mathématiques
 |-|:-:|:-:|
 |CCINP|[2022](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2022_MP_Mathematiques_2_e.pdf)|[2023](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2023_MPI_Mathematiques_1_e.pdf)|
 ||[2024](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2024_MP-MPI_Mathematiques_1_e.pdf)|[2010](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2010_MP_Mathematiques_2_e.pdf)|
+||[2020](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2020_MP-MPI_Mathematiques_1_e.pdf)|[2019](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2019_MP_Mathematiques_2_e.pdf)|
+|||[2024](http://einexau.cluster028.hosting.ovh.net/site/math/Concours_Commun_Polytechniques_(CCINP)_2024_MP_Mathematiques_2_e.pdf)|
 
 
 ## Des sujets de révision Centrale
@@ -29,6 +31,7 @@ sidebar_label: Mathématiques
 |Centrale|[2022](http://einexau.cluster028.hosting.ovh.net/site/math/CentraleSupelec_2022_MP_Mathematiques_1_e.pdf)|[2022](http://einexau.cluster028.hosting.ovh.net/site/math/CentraleSupelec_2022_MP_Mathematiques_2_e.pdf)|
 ||[2021](http://einexau.cluster028.hosting.ovh.net/site/math/CentraleSupelec_2021_MP_Mathematiques_1_e.pdf)|[2024](http://einexau.cluster028.hosting.ovh.net/site/math/CentraleSupelec_2024_MP-MPI_Mathematiques_2_e.pdf)|
 ||[2018](http://einexau.cluster028.hosting.ovh.net/site/math/CentraleSupelec_2018_MP_Mathematiques_1_e.pdf)||
+||[2024](http://einexau.cluster028.hosting.ovh.net/site/math/CentraleSupelec_2024_MP_Mathematiques_1_e.pdf)||
 
 
 
