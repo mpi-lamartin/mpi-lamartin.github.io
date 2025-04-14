@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-03-20T00:00:00.000Z</updated>
+    <updated>2025-04-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Un exercice corrigé]]></title>
+        <id>https://mpi-lamartin.github.io/2025/04/14/un_exo</id>
+        <link href="https://mpi-lamartin.github.io/2025/04/14/un_exo"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[54.3]]></summary>
+        <content type="html"><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/54.3.pdf" target="_blank" rel="noopener noreferrer">54.3</a>
+est disponible.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emploi du temps - préparation aux oraux]]></title>
         <id>https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral</id>
@@ -258,23 +271,5 @@ sont disponibles.</p>]]></content>
             <name>Guillaume Haberer</name>
         </author>
         <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calendrier TIPE]]></title>
-        <id>https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe</id>
-        <link href="https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe"/>
-        <updated>2024-11-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Retrouver dans la rubrique TIPE les dates importantes.]]></summary>
-        <content type="html"><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2024/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <author>
-            <name>Quentin Fortier</name>
-        </author>
-        <author>
-            <name>Laurent Hache</name>
-        </author>
-        <category label="tipe" term="tipe"/>
     </entry>
 </feed>

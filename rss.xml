@@ -4,10 +4,20 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Thu, 20 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Un exercice corrigé]]></title>
+            <link>https://mpi-lamartin.github.io/2025/04/14/un_exo</link>
+            <guid>https://mpi-lamartin.github.io/2025/04/14/un_exo</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[54.3]]></description>
+            <content:encoded><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/54.3.pdf" target="_blank" rel="noopener noreferrer">54.3</a>
+est disponible.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Emploi du temps - préparation aux oraux]]></title>
             <link>https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral</link>
@@ -202,15 +212,6 @@ sont disponibles.</p>]]></content:encoded>
             <description><![CDATA[Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».]]></description>
             <content:encoded><![CDATA[<p>Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Calendrier TIPE]]></title>
-            <link>https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe</link>
-            <guid>https://mpi-lamartin.github.io/2024/11/10/calendrier_tipe</guid>
-            <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Retrouver dans la rubrique TIPE les dates importantes.]]></description>
-            <content:encoded><![CDATA[<p>Retrouver dans la rubrique <a href="https://mpi-lamartin.github.io/2024/11/10/docs/tipe/doc1">TIPE</a> les dates importantes.</p>]]></content:encoded>
-            <category>tipe</category>
         </item>
     </channel>
 </rss>
