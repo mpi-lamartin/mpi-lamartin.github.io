@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Emploi du temps - préparation aux oraux]]></title>
+            <link>https://mpi-lamartin.github.io/2025/05/12/emploi_du_temps_preparation_a_l_oral</link>
+            <guid>https://mpi-lamartin.github.io/2025/05/12/emploi_du_temps_preparation_a_l_oral</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'emploi du temps pour la préparation aux oraux mis à jour le 12 mai.]]></description>
+            <content:encoded><![CDATA[<p>L'emploi du temps pour <a href="https://mpi-lamartin.github.io/assets/files/EDT_MPI_MPIetoile_mai_juin-ebf5b1d34242f655b616bb0a4907a3e3.pdf" target="_blank">la préparation aux oraux</a> mis à jour le 12 mai.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Un exercice corrigé]]></title>
             <link>https://mpi-lamartin.github.io/2025/04/14/un_exo</link>
@@ -17,15 +26,6 @@
             <content:encoded><![CDATA[<p><a href="http://einexau.cluster028.hosting.ovh.net/site/math/54.3.pdf" target="_blank" rel="noopener noreferrer">54.3</a>
 est disponible.</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Emploi du temps - préparation aux oraux]]></title>
-            <link>https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral</link>
-            <guid>https://mpi-lamartin.github.io/2025/03/20/emploi_du_temps_preparation_a_l_oral</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'emploi du temps pour la préparation aux oraux]]></description>
-            <content:encoded><![CDATA[<p>L'emploi du temps pour <a href="https://mpi-lamartin.github.io/assets/files/EDT_MPI_MPIetoile_mai_juin-859cd8c31db5ceb836e7d0ef5e63217d.pdf" target="_blank">la préparation aux oraux</a></p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
         <item>
             <title><![CDATA[Emploi du temps - préparation aux écrits]]></title>
