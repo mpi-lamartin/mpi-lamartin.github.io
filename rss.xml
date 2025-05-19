@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 12 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Inscriptions pour les simulations]]></title>
+            <link>https://mpi-lamartin.github.io/2025/05/19/simulations</link>
+            <guid>https://mpi-lamartin.github.io/2025/05/19/simulations</guid>
+            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inscriptions pour les simulations]]></description>
+            <content:encoded><![CDATA[<p><a href="https://docs.google.com/spreadsheets/d/1scPczCbyTrkwuZqP1rpVU8SnDhG8uMEdQQ8iVxTmjV4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Inscriptions pour les simulations</a></p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Emploi du temps - préparation aux oraux]]></title>
             <link>https://mpi-lamartin.github.io/2025/05/12/emploi_du_temps_preparation_a_l_oral</link>
@@ -202,15 +211,6 @@ sont disponibles.</p>]]></content:encoded>
             <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[La banque du CCINP a été légèrement mise à jour pour la session~2025. Les fichiers ont été actualisés en conséquence.]]></description>
             <content:encoded><![CDATA[<p>La banque du CCINP a été légèrement mise à jour pour la session~2025. Les fichiers ont été actualisés en conséquence.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Un exercice corrigé]]></title>
-            <link>https://mpi-lamartin.github.io/2024/12/08/un_exercice</link>
-            <guid>https://mpi-lamartin.github.io/2024/12/08/un_exercice</guid>
-            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».]]></description>
-            <content:encoded><![CDATA[<p>Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».</p>]]></content:encoded>
             <category>Math</category>
         </item>
     </channel>

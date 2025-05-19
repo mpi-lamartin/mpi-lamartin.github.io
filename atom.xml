@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-05-12T00:00:00.000Z</updated>
+    <updated>2025-05-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Inscriptions pour les simulations]]></title>
+        <id>https://mpi-lamartin.github.io/2025/05/19/simulations</id>
+        <link href="https://mpi-lamartin.github.io/2025/05/19/simulations"/>
+        <updated>2025-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inscriptions pour les simulations]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://docs.google.com/spreadsheets/d/1scPczCbyTrkwuZqP1rpVU8SnDhG8uMEdQQ8iVxTmjV4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Inscriptions pour les simulations</a></p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emploi du temps - préparation aux oraux]]></title>
         <id>https://mpi-lamartin.github.io/2025/05/12/emploi_du_temps_preparation_a_l_oral</id>
@@ -255,18 +267,6 @@ sont disponibles.</p>]]></content>
         <updated>2024-12-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[La banque du CCINP a été légèrement mise à jour pour la session~2025. Les fichiers ont été actualisés en conséquence.]]></summary>
         <content type="html"><![CDATA[<p>La banque du CCINP a été légèrement mise à jour pour la session~2025. Les fichiers ont été actualisés en conséquence.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un exercice corrigé]]></title>
-        <id>https://mpi-lamartin.github.io/2024/12/08/un_exercice</id>
-        <link href="https://mpi-lamartin.github.io/2024/12/08/un_exercice"/>
-        <updated>2024-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».]]></summary>
-        <content type="html"><![CDATA[<p>Un corrigé de l'exercice 53.52 est disponible. La question (b) est réservée à un public « averti ».</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
