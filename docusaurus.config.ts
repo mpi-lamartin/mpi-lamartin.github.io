@@ -124,6 +124,11 @@ const config: Config = {
               docId: 'math/doc4',
               label: 'Les devoirs',
             },
+            {
+              type: 'doc',
+              docId: 'math/oral',
+              label: "Préparation à l'oral",
+            },
           ],
         },
         // {
