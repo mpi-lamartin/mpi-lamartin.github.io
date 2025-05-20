@@ -17,4 +17,18 @@ sidebar_label: Mathématiques
 |[ÉNS Saclay-Rennes](./2024_rapport_ENS_SR_oral.pdf)|
 |[ÉNS Lyon](./2024_rapport_ENS_L_oral.pdf)|
 
+## Le travail en autonomie
+
+|Travail en autonomie|
+|-|
+|[Banque CCINP sans corrigés](./2025_CCINP_sans_corrections.pdf)|
+|[Banque CCINP avec corrigés](./2025_CCINP_avec_corrections.pdf)|
+|[994](http://einexau.cluster028.hosting.ovh.net/site/math/994.pdf)|
+
+## Les exercices en classe
+
+|Exercices en classes|
+|-|
+|[901](./901.pdf)|
+|[902](./902.pdf)|
 
