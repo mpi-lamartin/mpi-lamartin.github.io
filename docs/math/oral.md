@@ -23,6 +23,8 @@ sidebar_label: Mathématiques
 |-|
 |[Banque CCINP sans corrigés](./2025_CCINP_sans_corrections.pdf)|
 |[Banque CCINP avec corrigés](./2025_CCINP_avec_corrections.pdf)|
+|[991](http://einexau.cluster028.hosting.ovh.net/site/math/991.pdf) [(c)](http://einexau.cluster028.hosting.ovh.net/site/math/991_c.pdf)|
+|[992](http://einexau.cluster028.hosting.ovh.net/site/math/992.pdf) [(c)](http://einexau.cluster028.hosting.ovh.net/site/math/992_c.pdf)|
 |[994](http://einexau.cluster028.hosting.ovh.net/site/math/994.pdf)|
 
 ## Les exercices en classe
@@ -31,4 +33,5 @@ sidebar_label: Mathématiques
 |-|
 |[901](./901.pdf)|
 |[902](./902.pdf)|
+|[903](./903.pdf)|
 
