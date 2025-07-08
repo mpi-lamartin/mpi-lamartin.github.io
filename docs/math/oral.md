@@ -27,6 +27,7 @@ sidebar_label: Mathématiques
 |[992](http://einexau.cluster028.hosting.ovh.net/site/math/992.pdf) [(c)](http://einexau.cluster028.hosting.ovh.net/site/math/992_c.pdf)|
 |[993](http://einexau.cluster028.hosting.ovh.net/site/math/993.pdf) [(c)](http://einexau.cluster028.hosting.ovh.net/site/math/993_c.pdf)|
 |[994](http://einexau.cluster028.hosting.ovh.net/site/math/994.pdf)|
+|[995](http://einexau.cluster028.hosting.ovh.net/site/math/995.pdf)|
 
 ## Les exercices en classe
 
