@@ -19,7 +19,7 @@ const config: Config = {
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'ignore',// 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'ignore',// 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
