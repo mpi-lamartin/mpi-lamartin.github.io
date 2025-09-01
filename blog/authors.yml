@@ -16,7 +16,7 @@ qfortier:
 
 lhache:
   name: Laurent Hache
-  title: Professeur de physique
+  title: Professeur de physique-chimie
 
 lsmart:
   name: Lee Smart
@@ -33,3 +33,7 @@ mgonod:
 mdl:
   name: Marie-Aude de Langenhagen
   title: Professeur de français-philosophie en MPI*
+
+cg:
+  name: Charles Grenier
+  title: Professeur de physique-chimie intervenant en TIPE
