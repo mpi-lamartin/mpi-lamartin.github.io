@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmpi_lamartin_github_io=self.webpackChunkmpi_lamartin_github_io||[]).push([[885],{2937:a=>{a.exports=JSON.parse('{"tags":[{"label":"Math","permalink":"/tags/math","description":"Ce qui concerne les math","count":1}]}')}}]);
