@@ -14,6 +14,7 @@ sidebar_label: Mathématiques
 | ----------- | ----------- | ----------- |
 |[20250902](http://einexau.cluster028.hosting.ovh.net/site/math/20250902.pdf)|||
 |[20250903](http://einexau.cluster028.hosting.ovh.net/site/math/20250903.pdf)|||
+|[20250904](http://einexau.cluster028.hosting.ovh.net/site/math/20250904.pdf)|||
 ## Les exercices à rédiger
 
 |MPI/MPI*|MPI|MPI*|
