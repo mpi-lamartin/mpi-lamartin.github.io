@@ -8,7 +8,7 @@ sidebar_label: Emploi du temps
 
 ### Documents pour l'organisation de la classe 
 
-- Le [colloscope] (https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml) contenant les rotations des groupes
+- Le [colloscope](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml) contenant les rotations des groupes
 
 - L'[emploi du temps](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAp3bTbg6VMcCQD9Os8qwY-WkXKnlGxkBemkSskYPk5iTcbQeI9AtkXo7hiO9PToUQYj_UxrPFuMxr/pubhtml)
 
