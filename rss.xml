@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Wed, 17 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Colloscope]]></title>
+            <link>https://mpi-lamartin.github.io/2025/09/19/colloscope</link>
+            <guid>https://mpi-lamartin.github.io/2025/09/19/colloscope</guid>
+            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Encore une petite erreur s’était glissée dans le colloscope pour les MPI* du trinôme 1. C’est corrigé.]]></description>
+            <content:encoded><![CDATA[<p>Encore une petite erreur s’était glissée dans <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">le colloscope</a> pour les MPI* du trinôme 1. C’est corrigé.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Colloscope]]></title>
             <link>https://mpi-lamartin.github.io/2025/09/17/colloscope</link>
