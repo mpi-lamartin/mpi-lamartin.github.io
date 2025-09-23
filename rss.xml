@@ -4,10 +4,24 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Fri, 19 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2025/09/23/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2025/09/23/exercices_corriges</guid>
+            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/210.29.pdf" target="_blank" rel="noopener noreferrer">210.29</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/210.30.pdf" target="_blank" rel="noopener noreferrer">210.30</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/220.13.pdf" target="_blank" rel="noopener noreferrer">220.13</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/220.14.pdf" target="_blank" rel="noopener noreferrer">220.14</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Colloscope]]></title>
             <link>https://mpi-lamartin.github.io/2025/09/19/colloscope</link>
