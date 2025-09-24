@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 23 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Résumé des œuvres]]></title>
+            <link>https://mpi-lamartin.github.io/francais</link>
+            <guid>https://mpi-lamartin.github.io/francais</guid>
+            <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[On trouve dans la rubrique Français les résumés des œuvres au programme.]]></description>
+            <content:encoded><![CDATA[<p>On trouve dans la rubrique <strong>Français</strong> <a href="https://mpi-lamartin.github.io/docs/francais/">les résumés</a> des œuvres au programme.</p>]]></content:encoded>
+            <category>francais</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2025/09/23/exercices_corriges</link>

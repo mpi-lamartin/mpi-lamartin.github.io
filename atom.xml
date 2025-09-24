@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-09-23T00:00:00.000Z</updated>
+    <updated>2025-09-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Résumé des œuvres]]></title>
+        <id>https://mpi-lamartin.github.io/francais</id>
+        <link href="https://mpi-lamartin.github.io/francais"/>
+        <updated>2025-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On trouve dans la rubrique Français les résumés des œuvres au programme.]]></summary>
+        <content type="html"><![CDATA[<p>On trouve dans la rubrique <strong>Français</strong> <a href="https://mpi-lamartin.github.io/docs/francais/">les résumés</a> des œuvres au programme.</p>]]></content>
+        <author>
+            <name>Mathieu Gonod</name>
+        </author>
+        <category label="francais" term="francais"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exercices à rédiger]]></title>
         <id>https://mpi-lamartin.github.io/2025/09/23/exercices_corriges</id>
