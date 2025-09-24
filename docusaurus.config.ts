@@ -152,6 +152,13 @@ const config: Config = {
         },
         {
           type: 'doc',
+          docId: 'francais/doc1',
+          position: 'left',
+          label: 'Français',
+          sidebarId: "francais",
+        },
+        {
+          type: 'doc',
           docId: 'tipe/doc1',
           position: 'left',
           label: 'TIPE',
