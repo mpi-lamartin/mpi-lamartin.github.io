@@ -4,10 +4,23 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Wed, 24 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2025/09/29/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2025/09/29/exercices_corriges</guid>
+            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/530.16.pdf" target="_blank" rel="noopener noreferrer">530.16</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/530.17.pdf" target="_blank" rel="noopener noreferrer">530.17</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/530.24.pdf" target="_blank" rel="noopener noreferrer">530.24</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Résumé des œuvres]]></title>
             <link>https://mpi-lamartin.github.io/francais</link>
