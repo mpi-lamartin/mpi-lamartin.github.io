@@ -21,6 +21,6 @@ sidebar_label: Emploi du temps
 
 ### Les résultats de l'an dernier
 
-![2025_admissions_MPI_MPIe](./2025_admissions_MPI_MPIe.png)
-![2025_admissions_MPI](./2025_admissions_MPI.png)
-![2025_admissions_MPIe](./2025_admissions_MPIe.png)
+![2025_admissions_MPI_MPIe](./2025_admissions_MPI_MPIe.png)!
+![2025_admissions_MPI](./2025_admissions_MPI.png)!
+![2025_admissions_MPIe](./2025_admissions_MPIe.png)!
