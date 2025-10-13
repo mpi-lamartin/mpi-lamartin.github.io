@@ -40,10 +40,15 @@ sidebar_label: Mathématiques
 | ----------- | ----------- | ----------- |
 |[110.16](http://einexau.cluster028.hosting.ovh.net/site/math/110.16.pdf)|||
 |[110.29](http://einexau.cluster028.hosting.ovh.net/site/math/110.29.pdf)|||
+|[120.7](http://einexau.cluster028.hosting.ovh.net/site/math/120.7.pdf)|||
 |[210.29](http://einexau.cluster028.hosting.ovh.net/site/math/210.29.pdf)|||
 |[210.30](http://einexau.cluster028.hosting.ovh.net/site/math/210.30.pdf)|||
 |[220.13](http://einexau.cluster028.hosting.ovh.net/site/math/220.13.pdf)|||
 |[220.14](http://einexau.cluster028.hosting.ovh.net/site/math/220.14.pdf)|||
+|[230.10](http://einexau.cluster028.hosting.ovh.net/site/math/230.10.pdf)|||
+|[230.11](http://einexau.cluster028.hosting.ovh.net/site/math/230.11.pdf)|||
+|[240.29](http://einexau.cluster028.hosting.ovh.net/site/math/240.29.pdf)|||
+|[240.30](http://einexau.cluster028.hosting.ovh.net/site/math/240.30.pdf)|||
 |[510.15](http://einexau.cluster028.hosting.ovh.net/site/math/510.15.pdf)|||
 |[510.16](http://einexau.cluster028.hosting.ovh.net/site/math/510.16.pdf)|||
 |[520.25](http://einexau.cluster028.hosting.ovh.net/site/math/520.25.pdf)|||
