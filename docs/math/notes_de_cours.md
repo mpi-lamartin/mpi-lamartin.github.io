@@ -34,6 +34,7 @@ sidebar_label: Mathématiques
 |[20251008](http://einexau.cluster028.hosting.ovh.net/site/math/20251008.pdf)|||
 |[20251009](http://einexau.cluster028.hosting.ovh.net/site/math/20251009.pdf)||[20251009e](http://einexau.cluster028.hosting.ovh.net/site/math/20251009e.pdf)|
 |[20251014](http://einexau.cluster028.hosting.ovh.net/site/math/20251014.pdf)|||
+|[20251015](http://einexau.cluster028.hosting.ovh.net/site/math/20251015.pdf)|||
 
 ## Les exercices à rédiger
 
