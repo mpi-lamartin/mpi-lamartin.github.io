@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 13 Oct 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Avancée TIPE]]></title>
+            <link>https://mpi-lamartin.github.io/2025/10/17/avancee_tipe</link>
+            <guid>https://mpi-lamartin.github.io/2025/10/17/avancee_tipe</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Merci d'indiquer votre avancée de TIPE]]></description>
+            <content:encoded><![CDATA[<p>Merci d'<a href="https://forms.gle/KSdt6sjdECMkghtr7" target="_blank" rel="noopener noreferrer">indiquer votre avancée de TIPE</a></p>]]></content:encoded>
+            <category>tipe</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2025/10/13/exercices_corriges</link>
