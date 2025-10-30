@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-10-17T00:00:00.000Z</updated>
+    <updated>2025-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Exercices à rédiger]]></title>
+        <id>https://mpi-lamartin.github.io/2025/10/30/exercices_corriges</id>
+        <link href="https://mpi-lamartin.github.io/2025/10/30/exercices_corriges"/>
+        <updated>2025-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les corrigés des exercices]]></summary>
+        <content type="html"><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/130.12.pdf" target="_blank" rel="noopener noreferrer">130.12</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/130.15.pdf" target="_blank" rel="noopener noreferrer">130.15</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/250.10.pdf" target="_blank" rel="noopener noreferrer">250.10</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/250.11.pdf" target="_blank" rel="noopener noreferrer">250.11</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.21.pdf" target="_blank" rel="noopener noreferrer">260.21</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.23.pdf" target="_blank" rel="noopener noreferrer">260.23</a>
+sont disponibles.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avancée TIPE]]></title>
         <id>https://mpi-lamartin.github.io/2025/10/17/avancee_tipe</id>
