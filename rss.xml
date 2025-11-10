@@ -4,10 +4,27 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Sun, 09 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2025/11/10/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2025/11/10/exercices_corriges</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.21.pdf" target="_blank" rel="noopener noreferrer">260.21</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.22.pdf" target="_blank" rel="noopener noreferrer">260.22</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.23.pdf" target="_blank" rel="noopener noreferrer">260.23</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/630.9.pdf" target="_blank" rel="noopener noreferrer">630.9</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/630.10.pdf" target="_blank" rel="noopener noreferrer">630.10</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/640.21.pdf" target="_blank" rel="noopener noreferrer">640.21</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/640.22.pdf" target="_blank" rel="noopener noreferrer">640.22</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Un exo de colle]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/09/un_exo_de_colle</link>
