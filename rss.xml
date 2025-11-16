@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 10 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Un exo]]></title>
+            <link>https://mpi-lamartin.github.io/2025/11/16/un_exo</link>
+            <guid>https://mpi-lamartin.github.io/2025/11/16/un_exo</guid>
+            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'exerice 531.50 est corrigé.]]></description>
+            <content:encoded><![CDATA[<p>L'exerice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/531.50.pdf" target="_blank" rel="noopener noreferrer">531.50</a> est corrigé.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/10/exercices_corriges</link>

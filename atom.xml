@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-11-10T00:00:00.000Z</updated>
+    <updated>2025-11-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Un exo]]></title>
+        <id>https://mpi-lamartin.github.io/2025/11/16/un_exo</id>
+        <link href="https://mpi-lamartin.github.io/2025/11/16/un_exo"/>
+        <updated>2025-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[L'exerice 531.50 est corrigé.]]></summary>
+        <content type="html"><![CDATA[<p>L'exerice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/531.50.pdf" target="_blank" rel="noopener noreferrer">531.50</a> est corrigé.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exercices à rédiger]]></title>
         <id>https://mpi-lamartin.github.io/2025/11/10/exercices_corriges</id>
