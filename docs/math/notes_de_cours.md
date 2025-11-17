@@ -75,6 +75,8 @@ sidebar_label: Mathématiques
 |[530.16](http://einexau.cluster028.hosting.ovh.net/site/math/530.16.pdf)|||
 |[530.17](http://einexau.cluster028.hosting.ovh.net/site/math/530.17.pdf)|||
 |[530.24](http://einexau.cluster028.hosting.ovh.net/site/math/530.24.pdf)|||
+|[531.43](http://einexau.cluster028.hosting.ovh.net/site/math/531.43.pdf)|||
+|[531.44](http://einexau.cluster028.hosting.ovh.net/site/math/531.44.pdf)|||
 |[540.4](http://einexau.cluster028.hosting.ovh.net/site/math/540.4.pdf)|||
 |[540.24](http://einexau.cluster028.hosting.ovh.net/site/math/540.24.pdf)|||
 |[540.25](http://einexau.cluster028.hosting.ovh.net/site/math/540.25.pdf)|||
@@ -86,4 +88,6 @@ sidebar_label: Mathématiques
 |[630.10](http://einexau.cluster028.hosting.ovh.net/site/math/630.10.pdf)|||
 |[640.21](http://einexau.cluster028.hosting.ovh.net/site/math/640.21.pdf)|||
 |[640.22](http://einexau.cluster028.hosting.ovh.net/site/math/640.22.pdf)|||
+|[650.29](http://einexau.cluster028.hosting.ovh.net/site/math/650.29.pdf)|||
+|[650.30](http://einexau.cluster028.hosting.ovh.net/site/math/650.30.pdf)|||
 
