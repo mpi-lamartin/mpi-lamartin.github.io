@@ -4,10 +4,24 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Fri, 21 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2025/11/25/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2025/11/25/exercices_corriges</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/541.6.pdf" target="_blank" rel="noopener noreferrer">541.6</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/541.7.pdf" target="_blank" rel="noopener noreferrer">541.7</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/660.14.pdf" target="_blank" rel="noopener noreferrer">660.14</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/650.15.pdf" target="_blank" rel="noopener noreferrer">660.15</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Un exo]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/21/un_exo</link>
@@ -231,15 +245,6 @@ sont disponibles.</p>]]></content:encoded>
             <description><![CDATA[On trouve dans la rubrique Organisation l'emploi du temps, le planning des devoirs.]]></description>
             <content:encoded><![CDATA[<p>On trouve dans la rubrique <strong>Organisation</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAp3bTbg6VMcCQD9Os8qwY-WkXKnlGxkBemkSskYPk5iTcbQeI9AtkXo7hiO9PToUQYj_UxrPFuMxr/pubhtml" target="_blank" rel="noopener noreferrer">l'emploi du temps</a>, le <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMrbxLIzOu1LhuTcxv0ihIYWxe8rQ49YEMmLuYSDP1HCLM0Ub9UmiUKcqxw3dCRjzLn7GLjPuQubiF/pubhtml" target="_blank" rel="noopener noreferrer">planning des devoirs</a>.</p>]]></content:encoded>
             <category>Organisation</category>
-        </item>
-        <item>
-            <title><![CDATA[Rubrique mathématiques]]></title>
-            <link>https://mpi-lamartin.github.io/math</link>
-            <guid>https://mpi-lamartin.github.io/math</guid>
-            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[On trouve dans la rubrique Mathématiques les polys et les notes de cours.]]></description>
-            <content:encoded><![CDATA[<p>On trouve dans la rubrique <strong>Mathématiques</strong> <a href="https://mpi-lamartin.github.io/docs/math/doc1">les polys</a> et <a href="https://mpi-lamartin.github.io/docs/math/doc2">les notes de cours</a>.</p>]]></content:encoded>
-            <category>Math</category>
         </item>
     </channel>
 </rss>
