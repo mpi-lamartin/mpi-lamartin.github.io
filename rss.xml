@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 25 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Un exo]]></title>
+            <link>https://mpi-lamartin.github.io/2025/11/28/un_exo</link>
+            <guid>https://mpi-lamartin.github.io/2025/11/28/un_exo</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'exerice 550.47 est corrigé.]]></description>
+            <content:encoded><![CDATA[<p>L'exerice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.47.pdf" target="_blank" rel="noopener noreferrer">550.47</a> est corrigé.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/25/exercices_corriges</link>
@@ -235,15 +244,6 @@ sont disponibles.</p>]]></content:encoded>
             <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></description>
             <content:encoded><![CDATA[<p>Merci de <a href="https://forms.gle/KciV8jaWB3inZLjo6" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></p>]]></content:encoded>
-            <category>Organisation</category>
-        </item>
-        <item>
-            <title><![CDATA[Rubrique organisation]]></title>
-            <link>https://mpi-lamartin.github.io/orga</link>
-            <guid>https://mpi-lamartin.github.io/orga</guid>
-            <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[On trouve dans la rubrique Organisation l'emploi du temps, le planning des devoirs.]]></description>
-            <content:encoded><![CDATA[<p>On trouve dans la rubrique <strong>Organisation</strong> <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAp3bTbg6VMcCQD9Os8qwY-WkXKnlGxkBemkSskYPk5iTcbQeI9AtkXo7hiO9PToUQYj_UxrPFuMxr/pubhtml" target="_blank" rel="noopener noreferrer">l'emploi du temps</a>, le <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTMrbxLIzOu1LhuTcxv0ihIYWxe8rQ49YEMmLuYSDP1HCLM0Ub9UmiUKcqxw3dCRjzLn7GLjPuQubiF/pubhtml" target="_blank" rel="noopener noreferrer">planning des devoirs</a>.</p>]]></content:encoded>
             <category>Organisation</category>
         </item>
     </channel>
