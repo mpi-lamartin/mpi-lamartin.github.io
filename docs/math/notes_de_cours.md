@@ -89,6 +89,7 @@ sidebar_label: Mathématiques
 |[540.25](http://einexau.cluster028.hosting.ovh.net/site/math/540.25.pdf)|||
 |[541.6](http://einexau.cluster028.hosting.ovh.net/site/math/541.6.pdf)|||
 |[541.7](http://einexau.cluster028.hosting.ovh.net/site/math/541.7.pdf)|||
+|[550.47](http://einexau.cluster028.hosting.ovh.net/site/math/550.47.pdf)|||
 |[610.20](http://einexau.cluster028.hosting.ovh.net/site/math/610.20.pdf)|||
 |[610.21](http://einexau.cluster028.hosting.ovh.net/site/math/610.21.pdf)|||
 |[620.11](http://einexau.cluster028.hosting.ovh.net/site/math/620.11.pdf)|||
