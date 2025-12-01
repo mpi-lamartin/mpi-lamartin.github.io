@@ -4,10 +4,22 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Fri, 28 Nov 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2025/12/01/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2025/12/01/exercices_corriges</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.29.pdf" target="_blank" rel="noopener noreferrer">550.29</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.30.pdf" target="_blank" rel="noopener noreferrer">550.30</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Un exo]]></title>
             <link>https://mpi-lamartin.github.io/2025/11/28/un_exo</link>
@@ -236,15 +248,6 @@ sont disponibles.</p>]]></content:encoded>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/620.12.pdf" target="_blank" rel="noopener noreferrer">620.12</a>
 sont disponibles.</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[C'est la rentrée !]]></title>
-            <link>https://mpi-lamartin.github.io/rentree</link>
-            <guid>https://mpi-lamartin.github.io/rentree</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></description>
-            <content:encoded><![CDATA[<p>Merci de <a href="https://forms.gle/KciV8jaWB3inZLjo6" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
     </channel>
 </rss>

@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-11-28T00:00:00.000Z</updated>
+    <updated>2025-12-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Exercices à rédiger]]></title>
+        <id>https://mpi-lamartin.github.io/2025/12/01/exercices_corriges</id>
+        <link href="https://mpi-lamartin.github.io/2025/12/01/exercices_corriges"/>
+        <updated>2025-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les corrigés des exercices]]></summary>
+        <content type="html"><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.29.pdf" target="_blank" rel="noopener noreferrer">550.29</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.30.pdf" target="_blank" rel="noopener noreferrer">550.30</a>
+sont disponibles.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Un exo]]></title>
         <id>https://mpi-lamartin.github.io/2025/11/28/un_exo</id>
@@ -292,38 +307,5 @@ sont disponibles.</p>]]></content>
             <name>Guillaume Haberer</name>
         </author>
         <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C'est la rentrée !]]></title>
-        <id>https://mpi-lamartin.github.io/rentree</id>
-        <link href="https://mpi-lamartin.github.io/rentree"/>
-        <updated>2025-09-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Merci de compléter le formulaire de renseignements  et d'envoyer une photo]]></summary>
-        <content type="html"><![CDATA[<p>Merci de <a href="https://forms.gle/KciV8jaWB3inZLjo6" target="_blank" rel="noopener noreferrer">compléter le formulaire de renseignements</a>  et d'<a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer">envoyer une photo</a></p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <author>
-            <name>Quentin Fortier</name>
-        </author>
-        <author>
-            <name>Laurent Hache</name>
-        </author>
-        <author>
-            <name>Charles Grenier</name>
-        </author>
-        <author>
-            <name>Florence Debaecker</name>
-        </author>
-        <author>
-            <name>Lee Smart</name>
-        </author>
-        <author>
-            <name>Mathieu Gonod</name>
-        </author>
-        <author>
-            <name>Marie-Aude de Langenhagen</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
     </entry>
 </feed>
