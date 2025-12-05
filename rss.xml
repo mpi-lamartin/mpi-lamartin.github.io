@@ -9,6 +9,15 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
         <item>
+            <title><![CDATA[Choisir son école]]></title>
+            <link>https://mpi-lamartin.github.io/2025/12/05/aide_a_l_orientation</link>
+            <guid>https://mpi-lamartin.github.io/2025/12/05/aide_a_l_orientation</guid>
+            <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[La bacorge est une base de données d'écoles d'ingénieur, tenue à jour par l'association des profs de prépas. Vous pouvez y rechercher des écoles par thèmes.]]></description>
+            <content:encoded><![CDATA[<p>La <a href="https://prepas.org/index.php?rubrique=55" target="_blank" rel="noopener noreferrer">bacorge</a> est une base de données d'écoles d'ingénieur, tenue à jour par l'association des profs de prépas. Vous pouvez y rechercher des écoles par thèmes.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
+        <item>
             <title><![CDATA[Un morceau de problème]]></title>
             <link>https://mpi-lamartin.github.io/2025/12/05/un_td</link>
             <guid>https://mpi-lamartin.github.io/2025/12/05/un_td</guid>
@@ -228,17 +237,6 @@ sont disponibles.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>L'exercice
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/520.31.pdf" target="_blank" rel="noopener noreferrer">520.31</a> est corrigé.</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Colloscope]]></title>
-            <link>https://mpi-lamartin.github.io/2025/09/09/colloscope_beta</link>
-            <guid>https://mpi-lamartin.github.io/2025/09/09/colloscope_beta</guid>
-            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Le colloscope en version définitive est publié.]]></description>
-            <content:encoded><![CDATA[<p>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">version définitive</a> est publié.</p>
-<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">version beta 2</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>
-<p><del>Le colloscope en <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">version beta</a> est publié. Merci de me faire remonter toute anomalie repérée.</del></p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
     </channel>
 </rss>
