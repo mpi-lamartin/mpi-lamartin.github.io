@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2025-12-08T00:00:00.000Z</updated>
+    <updated>2025-12-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Exercices à rédiger]]></title>
+        <id>https://mpi-lamartin.github.io/2025/12/15/exercices_corriges</id>
+        <link href="https://mpi-lamartin.github.io/2025/12/15/exercices_corriges"/>
+        <updated>2025-12-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les corrigés des exercices]]></summary>
+        <content type="html"><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/830.24.pdf" target="_blank" rel="noopener noreferrer">830.24</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/830.25.pdf" target="_blank" rel="noopener noreferrer">830.25</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/831.26.pdf" target="_blank" rel="noopener noreferrer">831.26</a>
+sont disponibles.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exercices à rédiger]]></title>
         <id>https://mpi-lamartin.github.io/2025/12/08/exercices_corriges</id>
@@ -283,18 +299,6 @@ sont disponibles.</p>]]></content>
         <updated>2025-09-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Encore une petite erreur s’était glissée dans le colloscope pour les MPI* du trinôme 1. C’est corrigé.]]></summary>
         <content type="html"><![CDATA[<p>Encore une petite erreur s’était glissée dans <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">le colloscope</a> pour les MPI* du trinôme 1. C’est corrigé.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colloscope]]></title>
-        <id>https://mpi-lamartin.github.io/2025/09/17/colloscope</id>
-        <link href="https://mpi-lamartin.github.io/2025/09/17/colloscope"/>
-        <updated>2025-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Une erreur s’était glissée dans le colloscope la semaine du 24 novembre. C’est corrigé.]]></summary>
-        <content type="html"><![CDATA[<p>Une erreur s’était glissée dans <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">le colloscope</a> la semaine du 24 novembre. C’est corrigé.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
