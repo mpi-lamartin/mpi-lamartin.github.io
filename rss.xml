@@ -4,10 +4,28 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 15 Dec 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Choisir son école]]></title>
+            <link>https://mpi-lamartin.github.io/2025/12/23/aide_a_l_orientation</link>
+            <guid>https://mpi-lamartin.github.io/2025/12/23/aide_a_l_orientation</guid>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[La bacorge est une base de données d'écoles d'ingénieur, tenue à jour par l'association des profs de prépas. Vous pouvez y rechercher des écoles par thèmes.]]></description>
+            <content:encoded><![CDATA[<p>La <a href="https://prepas.org/index.php?rubrique=55" target="_blank" rel="noopener noreferrer">bacorge</a> est une base de données d'écoles d'ingénieur, tenue à jour par l'association des profs de prépas. Vous pouvez y rechercher des écoles par thèmes.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
+        <item>
+            <title><![CDATA[Coquille 831.29]]></title>
+            <link>https://mpi-lamartin.github.io/2025/12/23/coquille-831.29</link>
+            <guid>https://mpi-lamartin.github.io/2025/12/23/coquille-831.29</guid>
+            <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Il y a une coquille dans l'énoncé de l'exercice 831.29 : les v.a. Xn suivent une loi binomiale de paramètres (n,p).]]></description>
+            <content:encoded><![CDATA[<p>Il y a une coquille dans l'énoncé de l'exercice 831.29 : les v.a. Xn suivent une loi binomiale de paramètres (n,p).</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2025/12/15/exercices_corriges</link>
@@ -221,29 +239,6 @@ sont disponibles.</p>]]></content:encoded>
             <description><![CDATA[On trouve dans la rubrique Français les résumés des œuvres au programme.]]></description>
             <content:encoded><![CDATA[<p>On trouve dans la rubrique <strong>Français</strong> <a href="https://mpi-lamartin.github.io/docs/francais/">les résumés</a> des œuvres au programme.</p>]]></content:encoded>
             <category>francais</category>
-        </item>
-        <item>
-            <title><![CDATA[Exercices à rédiger]]></title>
-            <link>https://mpi-lamartin.github.io/2025/09/23/exercices_corriges</link>
-            <guid>https://mpi-lamartin.github.io/2025/09/23/exercices_corriges</guid>
-            <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Les corrigés des exercices]]></description>
-            <content:encoded><![CDATA[<p>Les corrigés des exercices
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/210.29.pdf" target="_blank" rel="noopener noreferrer">210.29</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/210.30.pdf" target="_blank" rel="noopener noreferrer">210.30</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/220.13.pdf" target="_blank" rel="noopener noreferrer">220.13</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/220.14.pdf" target="_blank" rel="noopener noreferrer">220.14</a>
-sont disponibles.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Colloscope]]></title>
-            <link>https://mpi-lamartin.github.io/2025/09/19/colloscope</link>
-            <guid>https://mpi-lamartin.github.io/2025/09/19/colloscope</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Encore une petite erreur s’était glissée dans le colloscope pour les MPI* du trinôme 1. C’est corrigé.]]></description>
-            <content:encoded><![CDATA[<p>Encore une petite erreur s’était glissée dans <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">le colloscope</a> pour les MPI* du trinôme 1. C’est corrigé.</p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
     </channel>
 </rss>
