@@ -4,23 +4,10 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Thu, 04 Jun 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
-        <item>
-            <title><![CDATA[Emploi du temps - semaine du 5 janvier]]></title>
-            <link>https://mpi-lamartin.github.io/2026/06/04/emploi_du_temps</link>
-            <guid>https://mpi-lamartin.github.io/2026/06/04/emploi_du_temps</guid>
-            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'emploi du temps pour la semaine du 5 janvier en]]></description>
-            <content:encoded><![CDATA[<p>L'emploi du temps pour la semaine du 5 janvier en
-<a href="https://mpi-lamartin.github.io/assets/files/EDT_MPI_janvier-e45e969b5187a737728a28ed44e1d7cf.pdf" target="_blank">MPI</a>
-et en
-<a href="https://mpi-lamartin.github.io/assets/files/EDT_MPIetoile_janvier-19a6bb064154c525c4c89acddd33924a.pdf" target="_blank">MPI*</a>
-est adapté.</p>]]></content:encoded>
-            <category>Organisation</category>
-        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2026/01/12/exercices_corriges</link>
@@ -43,6 +30,19 @@ sont disponibles.</p>]]></content:encoded>
             <description><![CDATA[L'exercice 820.19 est corrigé.]]></description>
             <content:encoded><![CDATA[<p>L'exercice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/820.19.pdf" target="_blank" rel="noopener noreferrer">820.19</a> est corrigé.</p>]]></content:encoded>
             <category>Math</category>
+        </item>
+        <item>
+            <title><![CDATA[Emploi du temps - semaine du 5 janvier]]></title>
+            <link>https://mpi-lamartin.github.io/2026/01/04/emploi_du_temps</link>
+            <guid>https://mpi-lamartin.github.io/2026/01/04/emploi_du_temps</guid>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'emploi du temps pour la semaine du 5 janvier en]]></description>
+            <content:encoded><![CDATA[<p>L'emploi du temps pour la semaine du 5 janvier en
+<a href="https://mpi-lamartin.github.io/assets/files/EDT_MPI_janvier-e45e969b5187a737728a28ed44e1d7cf.pdf" target="_blank">MPI</a>
+et en
+<a href="https://mpi-lamartin.github.io/assets/files/EDT_MPIetoile_janvier-19a6bb064154c525c4c89acddd33924a.pdf" target="_blank">MPI*</a>
+est adapté.</p>]]></content:encoded>
+            <category>Organisation</category>
         </item>
         <item>
             <title><![CDATA[Choisir son école]]></title>
