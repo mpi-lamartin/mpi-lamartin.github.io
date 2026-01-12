@@ -22,6 +22,20 @@ est adapté.</p>]]></content:encoded>
             <category>Organisation</category>
         </item>
         <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2026/01/12/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2026/01/12/exercices_corriges</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/420.12.pdf" target="_blank" rel="noopener noreferrer">420.12</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/420.13.pdf" target="_blank" rel="noopener noreferrer">420.13</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/430.18.pdf" target="_blank" rel="noopener noreferrer">430.18</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/430.19.pdf" target="_blank" rel="noopener noreferrer">430.19</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
+        <item>
             <title><![CDATA[Un exo]]></title>
             <link>https://mpi-lamartin.github.io/2026/01/06/un_exo</link>
             <guid>https://mpi-lamartin.github.io/2026/01/06/un_exo</guid>
@@ -228,16 +242,6 @@ sont disponibles.</p>]]></content:encoded>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.24.pdf" target="_blank" rel="noopener noreferrer">540.24</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.25.pdf" target="_blank" rel="noopener noreferrer">540.25</a>
 sont disponibles.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Un exercice corrigé]]></title>
-            <link>https://mpi-lamartin.github.io/2025/10/03/un_exo</link>
-            <guid>https://mpi-lamartin.github.io/2025/10/03/un_exo</guid>
-            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'exercice]]></description>
-            <content:encoded><![CDATA[<p>L'exercice
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.4.pdf" target="_blank" rel="noopener noreferrer">540.4</a> est corrigé.</p>]]></content:encoded>
             <category>Math</category>
         </item>
     </channel>

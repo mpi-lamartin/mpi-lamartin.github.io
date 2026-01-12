@@ -24,6 +24,23 @@ est adapté.</p>]]></content>
         <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exercices à rédiger]]></title>
+        <id>https://mpi-lamartin.github.io/2026/01/12/exercices_corriges</id>
+        <link href="https://mpi-lamartin.github.io/2026/01/12/exercices_corriges"/>
+        <updated>2026-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les corrigés des exercices]]></summary>
+        <content type="html"><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/420.12.pdf" target="_blank" rel="noopener noreferrer">420.12</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/420.13.pdf" target="_blank" rel="noopener noreferrer">420.13</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/430.18.pdf" target="_blank" rel="noopener noreferrer">430.18</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/430.19.pdf" target="_blank" rel="noopener noreferrer">430.19</a>
+sont disponibles.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Un exo]]></title>
         <id>https://mpi-lamartin.github.io/2026/01/06/un_exo</id>
         <link href="https://mpi-lamartin.github.io/2026/01/06/un_exo"/>
@@ -281,19 +298,6 @@ sont disponibles.</p>]]></content>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.24.pdf" target="_blank" rel="noopener noreferrer">540.24</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.25.pdf" target="_blank" rel="noopener noreferrer">540.25</a>
 sont disponibles.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un exercice corrigé]]></title>
-        <id>https://mpi-lamartin.github.io/2025/10/03/un_exo</id>
-        <link href="https://mpi-lamartin.github.io/2025/10/03/un_exo"/>
-        <updated>2025-10-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L'exercice]]></summary>
-        <content type="html"><![CDATA[<p>L'exercice
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.4.pdf" target="_blank" rel="noopener noreferrer">540.4</a> est corrigé.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
