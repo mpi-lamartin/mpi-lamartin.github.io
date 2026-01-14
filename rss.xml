@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 12 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Colloscope]]></title>
+            <link>https://mpi-lamartin.github.io/2026/01/14/colloscope</link>
+            <guid>https://mpi-lamartin.github.io/2026/01/14/colloscope</guid>
+            <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Une modification apparaît, pour les colles d'anglais, à partir du 26 janvier. Le colloscope est mis à jour. Les trinômes 9, 10, 11 et 12 sont concernés.]]></description>
+            <content:encoded><![CDATA[<p>Une modification apparaît, pour les colles d'anglais, à partir du 26 janvier. <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">Le colloscope</a> est mis à jour. Les trinômes 9, 10, 11 et 12 sont concernés.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2026/01/12/exercices_corriges</link>
@@ -227,20 +236,6 @@ sont disponibles.</p>]]></content:encoded>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/230.11.pdf" target="_blank" rel="noopener noreferrer">230.11</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/240.29.pdf" target="_blank" rel="noopener noreferrer">240.29</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/240.30.pdf" target="_blank" rel="noopener noreferrer">240.30</a>
-sont disponibles.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Exercices à rédiger]]></title>
-            <link>https://mpi-lamartin.github.io/2025/10/06/exercices_corriges</link>
-            <guid>https://mpi-lamartin.github.io/2025/10/06/exercices_corriges</guid>
-            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Les corrigés des exercices]]></description>
-            <content:encoded><![CDATA[<p>Les corrigés des exercices
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/110.16.pdf" target="_blank" rel="noopener noreferrer">110.16</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/110.29.pdf" target="_blank" rel="noopener noreferrer">110.29</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.24.pdf" target="_blank" rel="noopener noreferrer">540.24</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.25.pdf" target="_blank" rel="noopener noreferrer">540.25</a>
 sont disponibles.</p>]]></content:encoded>
             <category>Math</category>
         </item>

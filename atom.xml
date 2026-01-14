@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2026-01-12T00:00:00.000Z</updated>
+    <updated>2026-01-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Colloscope]]></title>
+        <id>https://mpi-lamartin.github.io/2026/01/14/colloscope</id>
+        <link href="https://mpi-lamartin.github.io/2026/01/14/colloscope"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Une modification apparaît, pour les colles d'anglais, à partir du 26 janvier. Le colloscope est mis à jour. Les trinômes 9, 10, 11 et 12 sont concernés.]]></summary>
+        <content type="html"><![CDATA[<p>Une modification apparaît, pour les colles d'anglais, à partir du 26 janvier. <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml" target="_blank" rel="noopener noreferrer">Le colloscope</a> est mis à jour. Les trinômes 9, 10, 11 et 12 sont concernés.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exercices à rédiger]]></title>
         <id>https://mpi-lamartin.github.io/2026/01/12/exercices_corriges</id>
@@ -280,23 +292,6 @@ sont disponibles.</p>]]></content>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/230.11.pdf" target="_blank" rel="noopener noreferrer">230.11</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/240.29.pdf" target="_blank" rel="noopener noreferrer">240.29</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/240.30.pdf" target="_blank" rel="noopener noreferrer">240.30</a>
-sont disponibles.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exercices à rédiger]]></title>
-        <id>https://mpi-lamartin.github.io/2025/10/06/exercices_corriges</id>
-        <link href="https://mpi-lamartin.github.io/2025/10/06/exercices_corriges"/>
-        <updated>2025-10-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Les corrigés des exercices]]></summary>
-        <content type="html"><![CDATA[<p>Les corrigés des exercices
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/110.16.pdf" target="_blank" rel="noopener noreferrer">110.16</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/110.29.pdf" target="_blank" rel="noopener noreferrer">110.29</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.24.pdf" target="_blank" rel="noopener noreferrer">540.24</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/540.25.pdf" target="_blank" rel="noopener noreferrer">540.25</a>
 sont disponibles.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
