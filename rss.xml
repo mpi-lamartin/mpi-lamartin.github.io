@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 19 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Un exo]]></title>
+            <link>https://mpi-lamartin.github.io/2026/01/22/un_exo</link>
+            <guid>https://mpi-lamartin.github.io/2026/01/22/un_exo</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[L'exercice 320.6 est corrigé.]]></description>
+            <content:encoded><![CDATA[<p>L'exercice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/320.6.pdf" target="_blank" rel="noopener noreferrer">320.6</a> est corrigé.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2026/01/19/exercices_corriges</link>
@@ -219,22 +228,6 @@ sont disponibles.</p>]]></content:encoded>
             <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Un exercice corrigé, mélangeant groupe fini et projecteurs.]]></description>
             <content:encoded><![CDATA[<p>Un <a href="http://einexau.cluster028.hosting.ovh.net/site/math/un_exo_colle.pdf" target="_blank" rel="noopener noreferrer">exercice corrigé</a>, mélangeant groupe fini et projecteurs.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Exercices à rédiger]]></title>
-            <link>https://mpi-lamartin.github.io/2025/10/30/exercices_corriges</link>
-            <guid>https://mpi-lamartin.github.io/2025/10/30/exercices_corriges</guid>
-            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Les corrigés des exercices]]></description>
-            <content:encoded><![CDATA[<p>Les corrigés des exercices
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/130.12.pdf" target="_blank" rel="noopener noreferrer">130.12</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/130.15.pdf" target="_blank" rel="noopener noreferrer">130.15</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/250.10.pdf" target="_blank" rel="noopener noreferrer">250.10</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/250.11.pdf" target="_blank" rel="noopener noreferrer">250.11</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.21.pdf" target="_blank" rel="noopener noreferrer">260.21</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.23.pdf" target="_blank" rel="noopener noreferrer">260.23</a>
-sont disponibles.</p>]]></content:encoded>
             <category>Math</category>
         </item>
     </channel>
