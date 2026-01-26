@@ -112,7 +112,7 @@ Des fonctions de plusieurs variables
 
 | | | |
 | ----------- | ----------- | ----------- |
-|Banque oral CCINP|[sans corrigés](./2025_CCINP_sans_corrections.pdf)|[avec corrigés](./2025_CCINP_avec_corrections.pdf)|
+|Banque oral CCINP|[sans corrigés](./2026_CCINP_sans_corrections.pdf)|[avec corrigés](./2026_CCINP_avec_corrections.pdf)|
 
 
 ## Le programme officiel
