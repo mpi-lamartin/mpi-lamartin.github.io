@@ -70,6 +70,7 @@ sidebar_label: Mathématiques
 |[20260115](http://einexau.cluster028.hosting.ovh.net/site/math/20260115.pdf)|||
 |[20260116](http://einexau.cluster028.hosting.ovh.net/site/math/20260116.pdf)|||
 |[20260127](http://einexau.cluster028.hosting.ovh.net/site/math/20260127.pdf)|||
+|[20260128](http://einexau.cluster028.hosting.ovh.net/site/math/20260128.pdf)|||
 
 ## Les exercices à rédiger
 
