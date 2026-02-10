@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2026-02-02T00:00:00.000Z</updated>
+    <updated>2026-02-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Soutenance TIPE]]></title>
+        <id>https://mpi-lamartin.github.io/2026/02/10/soutenance_tipe</id>
+        <link href="https://mpi-lamartin.github.io/2026/02/10/soutenance_tipe"/>
+        <updated>2026-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le planning des premières soutenances de TIPE est disponible.]]></summary>
+        <content type="html"><![CDATA[<p>Le <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpplfIIuqu4jn3l1ejQUc59DcdswHJ9AsD9FqruKT_lELdUSCd6YnrkpzucCiTW9s5Rlj0Bxa0zNGD/pubhtml" target="_blank" rel="noopener noreferrer">planning des premières soutenances de TIPE</a> est disponible.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <author>
+            <name>Quentin Fortier</name>
+        </author>
+        <author>
+            <name>Charles Grenier</name>
+        </author>
+        <category label="tipe" term="tipe"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exercices à rédiger]]></title>
         <id>https://mpi-lamartin.github.io/2026/02/02/exercices_corriges</id>
@@ -274,18 +292,6 @@ sont disponibles.</p>]]></content>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/650.29.pdf" target="_blank" rel="noopener noreferrer">650.29</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/650.30.pdf" target="_blank" rel="noopener noreferrer">650.30</a>
 sont disponibles.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un exo]]></title>
-        <id>https://mpi-lamartin.github.io/2025/11/16/un_exo</id>
-        <link href="https://mpi-lamartin.github.io/2025/11/16/un_exo"/>
-        <updated>2025-11-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L'exercice 531.50 est corrigé.]]></summary>
-        <content type="html"><![CDATA[<p>L'exercice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/531.50.pdf" target="_blank" rel="noopener noreferrer">531.50</a> est corrigé.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>

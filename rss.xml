@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Soutenance TIPE]]></title>
+            <link>https://mpi-lamartin.github.io/2026/02/10/soutenance_tipe</link>
+            <guid>https://mpi-lamartin.github.io/2026/02/10/soutenance_tipe</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Le planning des premières soutenances de TIPE est disponible.]]></description>
+            <content:encoded><![CDATA[<p>Le <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpplfIIuqu4jn3l1ejQUc59DcdswHJ9AsD9FqruKT_lELdUSCd6YnrkpzucCiTW9s5Rlj0Bxa0zNGD/pubhtml" target="_blank" rel="noopener noreferrer">planning des premières soutenances de TIPE</a> est disponible.</p>]]></content:encoded>
+            <category>tipe</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2026/02/02/exercices_corriges</link>
@@ -221,15 +230,6 @@ sont disponibles.</p>]]></content:encoded>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/650.29.pdf" target="_blank" rel="noopener noreferrer">650.29</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/650.30.pdf" target="_blank" rel="noopener noreferrer">650.30</a>
 sont disponibles.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Un exo]]></title>
-            <link>https://mpi-lamartin.github.io/2025/11/16/un_exo</link>
-            <guid>https://mpi-lamartin.github.io/2025/11/16/un_exo</guid>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'exercice 531.50 est corrigé.]]></description>
-            <content:encoded><![CDATA[<p>L'exercice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/531.50.pdf" target="_blank" rel="noopener noreferrer">531.50</a> est corrigé.</p>]]></content:encoded>
             <category>Math</category>
         </item>
     </channel>
