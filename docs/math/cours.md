@@ -93,6 +93,7 @@ Des fonctions de plusieurs variables
 | ----------- | ----------- | ----------- |
 |Continuité des fonctions de plusieurs variables|[710](./710.pdf)|[710](./710e.pdf)|
 |Calcul différentiel|[720](./720.pdf)|[720](./720e.pdf)|
+|Quelques exercices|[721](./721.pdf)|[721](./721.pdf)|
 |Optimisation|[730](./730.pdf)|[730](./730e.pdf)|
 
 ### 8. Probabilités
