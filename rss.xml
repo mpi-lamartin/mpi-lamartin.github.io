@@ -4,10 +4,25 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 10 Feb 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2026/03/02/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2026/03/02/exercices_corriges</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/570.13.pdf" target="_blank" rel="noopener noreferrer">570.13</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/580.1.pdf" target="_blank" rel="noopener noreferrer">580.1</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/720.11.pdf" target="_blank" rel="noopener noreferrer">720.11</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/720.23.pdf" target="_blank" rel="noopener noreferrer">720.23</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/730.15.pdf" target="_blank" rel="noopener noreferrer">730.15</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Soutenance TIPE]]></title>
             <link>https://mpi-lamartin.github.io/2026/02/10/soutenance_tipe</link>
@@ -216,20 +231,6 @@ sont disponibles.</p>]]></content:encoded>
             <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[La question (d) de l'exercice 660.3 est corrigé.]]></description>
             <content:encoded><![CDATA[<p>La question (d) de l'exercice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/660.3d.pdf" target="_blank" rel="noopener noreferrer">660.3</a> est corrigé.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Exercices à rédiger]]></title>
-            <link>https://mpi-lamartin.github.io/2025/11/17/exercices_corriges</link>
-            <guid>https://mpi-lamartin.github.io/2025/11/17/exercices_corriges</guid>
-            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Les corrigés des exercices]]></description>
-            <content:encoded><![CDATA[<p>Les corrigés des exercices
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/531.43.pdf" target="_blank" rel="noopener noreferrer">531.43</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/531.44.pdf" target="_blank" rel="noopener noreferrer">531.44</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/650.29.pdf" target="_blank" rel="noopener noreferrer">650.29</a>
-<a href="http://einexau.cluster028.hosting.ovh.net/site/math/650.30.pdf" target="_blank" rel="noopener noreferrer">650.30</a>
-sont disponibles.</p>]]></content:encoded>
             <category>Math</category>
         </item>
     </channel>
