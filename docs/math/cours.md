@@ -15,7 +15,8 @@ Les liens seront actifs au fur et à mesure de l'avancée du cours.
 
 ||MPI|MPI*|
 | ----------- | ----------- | ----------- |
-|Groupes|[110](./110.pdf)|[110](./110e.pdf)|
+|Compléments sur les groupes|[110](./110.pdf)|[110](./110e.pdf)|
+|Groupes cycliques|[111](./111.pdf)|[111](./111e.pdf)|
 |Anneaux|[120](./120.pdf)|[120](./120e.pdf)|
 |Polynômes|[130](./130.pdf)|[130](./130e.pdf)|
 |ℤ/nℤ|[140](./140.pdf)|[140](./140e.pdf)|
