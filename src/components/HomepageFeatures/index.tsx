@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Mathématiques',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Accédez aux polys de cours, notes de cours, programmes de colle,
+        sujets de révision, devoirs et ressources pour la préparation à l&apos;oral.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Informatique',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Retrouvez les ressources d&apos;informatique (sciences du numérique)
+        sur le site dédié à la filière MPI/MPI*.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Organisation & TIPE',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Consultez l&apos;emploi du temps, le colloscope, les ressources de français
+        ainsi que les informations relatives au TIPE.
       </>
     ),
   },
