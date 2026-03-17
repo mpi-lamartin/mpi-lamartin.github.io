@@ -68,7 +68,7 @@ const config: Config = {
     //   textColor: '#091E42',
     //   isCloseable: false,
     // },
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo.png',
     navbar: {
       title: 'MPI/MPI* La Martin',
       logo: {
