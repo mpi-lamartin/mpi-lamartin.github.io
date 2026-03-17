@@ -4,6 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'MPI/MPI* La Martinière Monplaisir',
+  tagline: 'Ressources pédagogiques pour les étudiants en classes préparatoires MPI/MPI* de La Martinière Monplaisir',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -50,6 +51,10 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -63,8 +68,7 @@ const config: Config = {
     //   textColor: '#091E42',
     //   isCloseable: false,
     // },
-    // Replace with your project's social card
-    // image: 'img/docusaurus-social-card.jpg',
+    image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'MPI/MPI* La Martin',
       logo: {
