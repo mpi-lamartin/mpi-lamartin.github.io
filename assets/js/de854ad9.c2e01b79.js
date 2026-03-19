@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmpi_lamartin_github_io=self.webpackChunkmpi_lamartin_github_io||[]).push([[4091],{8124:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/page/4","page":4,"postsPerPage":10,"totalPages":5,"totalCount":41,"previousPage":"/page/3","nextPage":"/page/5","blogDescription":"Blog","blogTitle":"Actualit\xe9s"}}')}}]);
