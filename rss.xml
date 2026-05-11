@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Thu, 19 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Inscription aux simulations]]></title>
+            <link>https://mpi-lamartin.github.io/2026/05/11/inscription_simulations</link>
+            <guid>https://mpi-lamartin.github.io/2026/05/11/inscription_simulations</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Inscriptions aux simulations]]></description>
+            <content:encoded><![CDATA[<p><a href="https://docs.google.com/spreadsheets/d/1XXNge71ajWa-nt4-9M76liPZAO1cURLpeyNKEJa1sOQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Inscriptions aux simulations</a></p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2026/03/19/exercices_corriges</link>
@@ -228,15 +237,6 @@ sont disponibles.</p>]]></content:encoded>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.29.pdf" target="_blank" rel="noopener noreferrer">550.29</a>
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.30.pdf" target="_blank" rel="noopener noreferrer">550.30</a>
 sont disponibles.</p>]]></content:encoded>
-            <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Un exo]]></title>
-            <link>https://mpi-lamartin.github.io/2025/11/28/un_exo</link>
-            <guid>https://mpi-lamartin.github.io/2025/11/28/un_exo</guid>
-            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[L'exercice 550.47 est corrigé.]]></description>
-            <content:encoded><![CDATA[<p>L'exercice <a href="http://einexau.cluster028.hosting.ovh.net/site/math/550.47.pdf" target="_blank" rel="noopener noreferrer">550.47</a> est corrigé.</p>]]></content:encoded>
             <category>Math</category>
         </item>
     </channel>
