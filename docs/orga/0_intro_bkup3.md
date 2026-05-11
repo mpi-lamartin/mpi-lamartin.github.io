@@ -8,9 +8,11 @@ sidebar_label: Emploi du temps
 
 ### Documents pour l'organisation de la classe 
 
+- Le [colloscope](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ08_Q2y3Dmt4f9GDEVM6cIddsGppiG8dV4czNUYrY0lcnnKNrtC2zX71MyAIARYOlNIlDNxVRo9X0N/pubhtml) contenant les rotations des groupes. Aussi disponible en version [pdf](./20250915_colloscope.pdf).
+
 - L'[emploi du temps](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAp3bTbg6VMcCQD9Os8qwY-WkXKnlGxkBemkSskYPk5iTcbQeI9AtkXo7hiO9PToUQYj_UxrPFuMxr/pubhtml)
 
-- Le [planning des simulations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQbTyXGttDUTVm0L8LfnGtm7glNOTCham_4f05gUJpO_H6-YapKUSHE8flX0dwHWvOX-PDCQKJrmeiq/pubhtml)
+- Le [planning des devoirs](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMrbxLIzOu1LhuTcxv0ihIYWxe8rQ49YEMmLuYSDP1HCLM0Ub9UmiUKcqxw3dCRjzLn7GLjPuQubiF/pubhtml)
 
 
 ### Documents d'information 
