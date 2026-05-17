@@ -14,7 +14,6 @@ const config = {
     projectName: 'mpi-lamartin.github.io', // Usually your repo name.
     deploymentBranch: 'gh-pages',
     onBrokenLinks: 'ignore', // 'throw',
-    onBrokenMarkdownLinks: 'ignore', // 'warn',
     // Even if you don't use internationalization, you can use this field to set
     // useful metadata like html lang. For example, if your site is Chinese, you
     // may want to replace "en" with "zh-Hans".
@@ -50,6 +49,11 @@ const config = {
             },
         ],
     ],
+    markdown: {
+        hooks: {
+            onBrokenMarkdownLinks: 'ignore',
+        },
+    },
     themeConfig: {
         //   announcementBar: {
         //   id: 'support_us',
