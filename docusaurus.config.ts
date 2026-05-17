@@ -20,7 +20,6 @@ const config: Config = {
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'ignore',// 'throw',
-  onBrokenMarkdownLinks: 'ignore',// 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -58,6 +57,12 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'ignore',
+    },
+  },
 
   themeConfig: {
     //   announcementBar: {

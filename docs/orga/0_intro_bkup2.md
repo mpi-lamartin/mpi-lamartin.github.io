@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: doc3
 title: Organisation de la classe
 sidebar_label: Emploi du temps
 ---
