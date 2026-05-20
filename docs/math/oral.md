@@ -16,7 +16,6 @@ sidebar_label: Mathématiques
 |[ÉNS Ulm](./2025_rapport_ENS_U_oral.pdf)|
 |[ÉNS Saclay-Rennes](./2025_rapport_ENS_SR_oral.pdf)|
 |[ÉNS Lyon](./2026_rapport_ENS_L_oral.pdf)|
-|-|
 
 ## Le travail en autonomie
 
@@ -25,11 +24,11 @@ sidebar_label: Mathématiques
 |[Banque CCINP sans corrigés](./2026_CCINP_sans_corrections.pdf)|
 |[Banque CCINP avec corrigés](./2026_CCINP_avec_corrections.pdf)|
 |[991](http://einexau.cluster028.hosting.ovh.net/site/math/991.pdf) [(c)](http://einexau.cluster028.hosting.ovh.net/site/math/991_c.pdf)|
-|-|
+|[992](http://einexau.cluster028.hosting.ovh.net/site/math/992.pdf) [(c)](http://einexau.cluster028.hosting.ovh.net/site/math/992_c.pdf)|
 
 ## Les exercices en classe
 
 |Exercices en classes|
 |-|
 |[901](./901.pdf)|
-|-|
+|[902](./902.pdf)|
