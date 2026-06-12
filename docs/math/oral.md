@@ -41,3 +41,18 @@ sidebar_label: Mathématiques
 |[909](./909.pdf)|
 |[910](./910.pdf)|
 |[911](./911.pdf)|
+
+## L'oral math-info à Centrale
+
+|Les fiches d'aide Python|
+|-|
+|[Analyse numérique](./Python-AN.pdf)|
+|[Algèbre linéaire](./Python-matrices.pdf)|
+|[Tracés graphiques](./Python-plot.pdf)|
+|[Polynômes](./Python-polynomes.pdf)|
+|[Probabilités](./Python-random.pdf)|
+|[Le tout zippé](https://www.concours-centrale-supelec.fr/sites/default/files/documents/Fiches-d-aide-Python-Maths-2.zip)|
+
+|L'oral math-info|
+|-|
+|[921](./921.pdf)|
