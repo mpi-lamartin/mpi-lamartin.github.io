@@ -58,3 +58,4 @@ sidebar_label: Mathématiques
 |[20250902](http://einexau.cluster028.hosting.ovh.net/site/math/20250902.pdf)|
 |[921](./921.pdf)|
 |[922](./922.pdf)|
+|[923](./923.pdf)|
