@@ -8,6 +8,3 @@ sidebar_label: Français
 
 |Résumé|
 |------|
-|[Canguilhem](./resume_canguilhem.pdf)|
-|[Haushofer](./resume_haushofer_avec_citations.pdf)|
-|[Verne](./resume_Verne.pdf)|

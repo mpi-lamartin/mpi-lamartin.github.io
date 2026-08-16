@@ -8,10 +8,6 @@ sidebar_label: Emploi du temps
 
 ### Documents pour l'organisation de la classe 
 
-- L'[emploi du temps](https://docs.google.com/spreadsheets/d/e/2PACX-1vQAp3bTbg6VMcCQD9Os8qwY-WkXKnlGxkBemkSskYPk5iTcbQeI9AtkXo7hiO9PToUQYj_UxrPFuMxr/pubhtml)
-
-- Le [planning des simulations](https://docs.google.com/spreadsheets/d/e/2PACX-1vQbTyXGttDUTVm0L8LfnGtm7glNOTCham_4f05gUJpO_H6-YapKUSHE8flX0dwHWvOX-PDCQKJrmeiq/pubhtml)
-
 
 ### Documents d'information 
 
@@ -19,6 +15,6 @@ sidebar_label: Emploi du temps
 
 ### Les résultats de l'an dernier
 
-![2025_admissions_MPI_MPIe](./2025_admissions_MPI_MPIe.png)!
-![2025_admissions_MPI](./2025_admissions_MPI.png)!
-![2025_admissions_MPIe](./2025_admissions_MPIe.png)!
+![2026_admissions_MPI_MPIe](./2026_admissions_MPI_MPIe.png)!
+![2026_admissions_MPI](./2026_admissions_MPI.png)!
+![2026_admissions_MPIe](./2026_admissions_MPIe.png)!
