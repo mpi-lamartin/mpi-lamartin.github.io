@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmpi_lamartin_github_io=self.webpackChunkmpi_lamartin_github_io||[]).push([[885],{2937:i=>{i.exports=JSON.parse('{"tags":[{"label":"Organisation","permalink":"/tags/orga","description":"Ce qui concerne l\'emploi du temps, l\'organisation","count":1}]}')}}]);
