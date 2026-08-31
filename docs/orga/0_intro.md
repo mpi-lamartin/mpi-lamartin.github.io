@@ -8,6 +8,7 @@ sidebar_label: Emploi du temps
 
 ### Documents pour l'organisation de la classe 
 
+- L'[emploi du temps](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-ppiF3kKnXmENWQLQpDe3BKJFvrjyzfgG0-VDzipfNWGo-Ozry_O8EccssJpZF0K_M_gIGjyNK9ax/pub?output=pdf)
 
 ### Documents d'information 
 
