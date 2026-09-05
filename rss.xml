@@ -4,27 +4,18 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 01 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
         <item>
-            <title><![CDATA[C'est la rentrée !]]></title>
-            <link>https://mpi-lamartin.github.io/rentree</link>
-            <guid>https://mpi-lamartin.github.io/rentree</guid>
-            <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[- Compléter le formulaire de renseignements]]></description>
-            <content:encoded><![CDATA[<ul>
-<li class="">
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfjXbjAl3tQOWUzjy8fKc6QBrYHgSoKR4DWAYjYR2xPNdwcog/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" class="">Compléter le formulaire de renseignements</a></p>
-</li>
-<li class="">
-<p><a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer" class="">Envoyer une photo</a></p>
-</li>
-<li class="">
-<p>Télécharger l'<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-ppiF3kKnXmENWQLQpDe3BKJFvrjyzfgG0-VDzipfNWGo-Ozry_O8EccssJpZF0K_M_gIGjyNK9ax/pub?output=pdf" target="_blank" rel="noopener noreferrer" class="">emploi du temps</a></p>
-</li>
-</ul>]]></content:encoded>
+            <title><![CDATA[Rotations pour la semaine à venir]]></title>
+            <link>https://mpi-lamartin.github.io/2026/09/05/_rotations</link>
+            <guid>https://mpi-lamartin.github.io/2026/09/05/_rotations</guid>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les]]></description>
+            <content:encoded><![CDATA[<p>Les
+<a href="https://mpi-lamartin.github.io/assets/files/20260907_rotations-8da1a1d368277c8c0e5ef5ada5883da3.pdf" target="_blank" class="">rotations</a> pour la semaine à venir.</p>]]></content:encoded>
             <category>Organisation</category>
         </item>
     </channel>

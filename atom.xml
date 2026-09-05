@@ -2,51 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2026-09-01T00:00:00.000Z</updated>
+    <updated>2026-09-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[C'est la rentrée !]]></title>
-        <id>https://mpi-lamartin.github.io/rentree</id>
-        <link href="https://mpi-lamartin.github.io/rentree"/>
-        <updated>2026-09-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[- Compléter le formulaire de renseignements]]></summary>
-        <content type="html"><![CDATA[<ul>
-<li class="">
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfjXbjAl3tQOWUzjy8fKc6QBrYHgSoKR4DWAYjYR2xPNdwcog/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" class="">Compléter le formulaire de renseignements</a></p>
-</li>
-<li class="">
-<p><a href="http://einexau.cluster028.hosting.ovh.net/envoi/index_photo.php" target="_blank" rel="noopener noreferrer" class="">Envoyer une photo</a></p>
-</li>
-<li class="">
-<p>Télécharger l'<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-ppiF3kKnXmENWQLQpDe3BKJFvrjyzfgG0-VDzipfNWGo-Ozry_O8EccssJpZF0K_M_gIGjyNK9ax/pub?output=pdf" target="_blank" rel="noopener noreferrer" class="">emploi du temps</a></p>
-</li>
-</ul>]]></content>
+        <title type="html"><![CDATA[Rotations pour la semaine à venir]]></title>
+        <id>https://mpi-lamartin.github.io/2026/09/05/_rotations</id>
+        <link href="https://mpi-lamartin.github.io/2026/09/05/_rotations"/>
+        <updated>2026-09-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les]]></summary>
+        <content type="html"><![CDATA[<p>Les
+<a href="https://mpi-lamartin.github.io/assets/files/20260907_rotations-8da1a1d368277c8c0e5ef5ada5883da3.pdf" target="_blank" class="">rotations</a> pour la semaine à venir.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
-        </author>
-        <author>
-            <name>Quentin Fortier</name>
-        </author>
-        <author>
-            <name>Laurent Hache</name>
-        </author>
-        <author>
-            <name>Charles Grenier</name>
-        </author>
-        <author>
-            <name>Florence Debaecker</name>
-        </author>
-        <author>
-            <name>Lee Smart</name>
-        </author>
-        <author>
-            <name>Mathieu Gonod</name>
-        </author>
-        <author>
-            <name>Marie-Aude de Langenhagen</name>
         </author>
         <category label="Organisation" term="Organisation"/>
     </entry>
