@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mpi-lamartin.github.io/</id>
     <title>MPI/MPI* La Martinière Monplaisir Blog</title>
-    <updated>2026-09-05T00:00:00.000Z</updated>
+    <updated>2026-09-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mpi-lamartin.github.io/"/>
     <subtitle>MPI/MPI* La Martinière Monplaisir Blog</subtitle>
     <icon>https://mpi-lamartin.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rotations pour la semaine à venir (màj)]]></title>
+        <id>https://mpi-lamartin.github.io/2026/09/06/_rotations_maj</id>
+        <link href="https://mpi-lamartin.github.io/2026/09/06/_rotations_maj"/>
+        <updated>2026-09-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les]]></summary>
+        <content type="html"><![CDATA[<p>Les
+<a href="https://mpi-lamartin.github.io/assets/files/20260907_rotations-775bb3ce67086c8e76505e356f4d4c9a.pdf" target="_blank" class="">rotations</a> pour la semaine à venir (màj 6 sept)</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rotations pour la semaine à venir]]></title>
         <id>https://mpi-lamartin.github.io/2026/09/05/_rotations</id>
@@ -14,7 +27,7 @@
         <updated>2026-09-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Les]]></summary>
         <content type="html"><![CDATA[<p>Les
-<a href="https://mpi-lamartin.github.io/assets/files/20260907_rotations-8da1a1d368277c8c0e5ef5ada5883da3.pdf" target="_blank" class="">rotations</a> pour la semaine à venir.</p>]]></content>
+<a href="https://mpi-lamartin.github.io/assets/files/20260907_rotations-775bb3ce67086c8e76505e356f4d4c9a.pdf" target="_blank" class="">rotations</a> pour la semaine à venir.</p>]]></content>
         <author>
             <name>Guillaume Haberer</name>
         </author>
