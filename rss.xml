@@ -4,10 +4,20 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 08 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Colloscope]]></title>
+            <link>https://mpi-lamartin.github.io/2026/09/09/_colloscope</link>
+            <guid>https://mpi-lamartin.github.io/2026/09/09/_colloscope</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Quelques ajustements sur le]]></description>
+            <content:encoded><![CDATA[<p>Quelques ajustements sur le
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN9LDIMim_b7Mijx3saOkXpd02b4unBMnLUMxMFAeACGDrERnu3hKl0KxNh-nomS_1bHGSCWxsYK6U/pubhtml" target="_blank" rel="noopener noreferrer" class="">colloscope et rotations</a> concernant les colles de math HF.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Colloscope]]></title>
             <link>https://mpi-lamartin.github.io/2026/09/08/_colloscope</link>
