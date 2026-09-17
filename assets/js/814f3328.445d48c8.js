@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmpi_lamartin_github_io=self.webpackChunkmpi_lamartin_github_io||[]).push([[7472],{5513:i=>{i.exports=JSON.parse('{"title":"Actualit\xe9s","items":[]}')}}]);
