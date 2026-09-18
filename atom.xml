@@ -20,6 +20,19 @@
         <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Colloscope]]></title>
+        <id>https://mpi-lamartin.github.io/2026/09/18/_colloscope</id>
+        <link href="https://mpi-lamartin.github.io/2026/09/18/_colloscope"/>
+        <updated>2026-09-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le]]></summary>
+        <content type="html"><![CDATA[<p>Le
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN9LDIMim_b7Mijx3saOkXpd02b4unBMnLUMxMFAeACGDrERnu3hKl0KxNh-nomS_1bHGSCWxsYK6U/pubhtml" target="_blank" rel="noopener noreferrer" class="">colloscope et rotations</a> a été légèrement modifié après les vacances de février, pour corriger un conflit entre les TD de physique des MPI et les cours d'informatique du jeudi après-midi.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Organisation" term="Organisation"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Un exercice corrigé]]></title>
         <id>https://mpi-lamartin.github.io/2026/09/17/un_exercice_corrige</id>
         <link href="https://mpi-lamartin.github.io/2026/09/17/un_exercice_corrige"/>
@@ -49,19 +62,6 @@ sont disponibles.</p>]]></content>
             <name>Guillaume Haberer</name>
         </author>
         <category label="Math" term="Math"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colloscope]]></title>
-        <id>https://mpi-lamartin.github.io/2026/09/08/_colloscope</id>
-        <link href="https://mpi-lamartin.github.io/2026/09/08/_colloscope"/>
-        <updated>2026-09-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Le]]></summary>
-        <content type="html"><![CDATA[<p>Le
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN9LDIMim_b7Mijx3saOkXpd02b4unBMnLUMxMFAeACGDrERnu3hKl0KxNh-nomS_1bHGSCWxsYK6U/pubhtml" target="_blank" rel="noopener noreferrer" class="">colloscope et rotations</a> est publié.</p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Exercices à rédiger]]></title>
