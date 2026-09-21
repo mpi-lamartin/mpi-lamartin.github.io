@@ -20,6 +20,37 @@
         <category label="Organisation" term="Organisation"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Exercices à rédiger]]></title>
+        <id>https://mpi-lamartin.github.io/2026/09/21/exercices_corriges</id>
+        <link href="https://mpi-lamartin.github.io/2026/09/21/exercices_corriges"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Les corrigés des exercices]]></summary>
+        <content type="html"><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/220.13.pdf" target="_blank" rel="noopener noreferrer" class="">220.13</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/220.14.pdf" target="_blank" rel="noopener noreferrer" class="">220.14</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/620.11.pdf" target="_blank" rel="noopener noreferrer" class="">620.11</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/620.12.pdf" target="_blank" rel="noopener noreferrer" class="">620.12</a>
+sont disponibles.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Un exercice corrigé]]></title>
+        <id>https://mpi-lamartin.github.io/2026/09/21/un_exercice_corrige</id>
+        <link href="https://mpi-lamartin.github.io/2026/09/21/un_exercice_corrige"/>
+        <updated>2026-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Un corrigé de l’exercice]]></summary>
+        <content type="html"><![CDATA[<p>Un corrigé de l’exercice
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/220.23.pdf" target="_blank" rel="noopener noreferrer" class="">220.23</a>
+est proposé.</p>]]></content>
+        <author>
+            <name>Guillaume Haberer</name>
+        </author>
+        <category label="Math" term="Math"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Colloscope]]></title>
         <id>https://mpi-lamartin.github.io/2026/09/18/_colloscope</id>
         <link href="https://mpi-lamartin.github.io/2026/09/18/_colloscope"/>
