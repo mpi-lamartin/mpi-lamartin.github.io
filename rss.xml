@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 29 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Intervention des étudiants de l'X]]></title>
+            <link>https://mpi-lamartin.github.io/2026/10/02/X</link>
+            <guid>https://mpi-lamartin.github.io/2026/10/02/X</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.]]></description>
+            <content:encoded><![CDATA[<p>Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Santé mentale]]></title>
             <link>https://mpi-lamartin.github.io/2026/09/29/sante_mentale</link>
@@ -16,6 +25,16 @@
             <description><![CDATA[L'équipe ressource « santé mentale », composée de l'infirmière, la psychologue et l'assistante sociale, interviendra dans notre classe le mardi 29 septembre après-midi.]]></description>
             <content:encoded><![CDATA[<p><del>L'équipe ressource « santé mentale », composée de l'infirmière, la psychologue et l'assistante sociale, interviendra dans notre classe le mardi 29 septembre après-midi.</del></p>
 <p>Cette rencontre est reportée à une date ultérieure.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
+        <item>
+            <title><![CDATA[Colloscope]]></title>
+            <link>https://mpi-lamartin.github.io/2026/09/25/_colloscope</link>
+            <guid>https://mpi-lamartin.github.io/2026/09/25/_colloscope</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Le]]></description>
+            <content:encoded><![CDATA[<p>Le
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN9LDIMim_b7Mijx3saOkXpd02b4unBMnLUMxMFAeACGDrERnu3hKl0KxNh-nomS_1bHGSCWxsYK6U/pubhtml" target="_blank" rel="noopener noreferrer" class="">colloscope et rotations</a> a été mis à jour, pour gérer les colles du 11 novembre et certains conflits avec les cours de LV2.</p>]]></content:encoded>
             <category>Organisation</category>
         </item>
         <item>
