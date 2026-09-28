@@ -6,7 +6,5 @@ sidebar_label: Mathématiques
 
 ## Les histogrammes des notes aux DS
 
-## Les conseils après DS
+![chart_ds1](./chart_ds1.png)
 
-| Devoir |
-| ----------- |
