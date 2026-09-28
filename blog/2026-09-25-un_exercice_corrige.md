@@ -4,6 +4,6 @@ authors: [ghaberer]
 tags: [math]
 ---
 Un corrigé de l’exercice
-[220.23](http://einexau.cluster028.hosting.ovh.net/site/math/220.23.pdf)
+[540.5](http://einexau.cluster028.hosting.ovh.net/site/math/540.5.pdf)
 est proposé.
 
