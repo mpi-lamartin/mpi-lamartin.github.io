@@ -4,17 +4,34 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Fri, 02 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Exercices à rédiger]]></title>
+            <link>https://mpi-lamartin.github.io/2026/10/03/exercices_corriges</link>
+            <guid>https://mpi-lamartin.github.io/2026/10/03/exercices_corriges</guid>
+            <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Les corrigés des exercices]]></description>
+            <content:encoded><![CDATA[<p>Les corrigés des exercices
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/230.1.pdf" target="_blank" rel="noopener noreferrer" class="">230.1</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/230.9.pdf" target="_blank" rel="noopener noreferrer" class="">230.9</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/230.10.pdf" target="_blank" rel="noopener noreferrer" class="">230.10</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/630.9.pdf" target="_blank" rel="noopener noreferrer" class="">630.9</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/630.10.pdf" target="_blank" rel="noopener noreferrer" class="">630.10</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/640.21.pdf" target="_blank" rel="noopener noreferrer" class="">640.21</a>
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/640.22.pdf" target="_blank" rel="noopener noreferrer" class="">640.22</a>
+sont disponibles.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Intervention des étudiants de l'X]]></title>
             <link>https://mpi-lamartin.github.io/2026/10/02/X</link>
             <guid>https://mpi-lamartin.github.io/2026/10/02/X</guid>
             <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.]]></description>
-            <content:encoded><![CDATA[<p>Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.</p>]]></content:encoded>
+            <description><![CDATA[Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.s]]></description>
+            <content:encoded><![CDATA[<p>~~Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.~~s</p>]]></content:encoded>
             <category>Organisation</category>
         </item>
         <item>
