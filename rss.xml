@@ -4,10 +4,19 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Sat, 03 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Intervention des étudiants de l'X]]></title>
+            <link>https://mpi-lamartin.github.io/2026/10/09/_X</link>
+            <guid>https://mpi-lamartin.github.io/2026/10/09/_X</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 9 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.]]></description>
+            <content:encoded><![CDATA[<p>Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 9 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.</p>]]></content:encoded>
+            <category>Organisation</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2026/10/03/exercices_corriges</link>
@@ -24,15 +33,6 @@
 <a href="http://einexau.cluster028.hosting.ovh.net/site/math/640.22.pdf" target="_blank" rel="noopener noreferrer" class="">640.22</a>
 sont disponibles.</p>]]></content:encoded>
             <category>Math</category>
-        </item>
-        <item>
-            <title><![CDATA[Intervention des étudiants de l'X]]></title>
-            <link>https://mpi-lamartin.github.io/2026/10/02/X</link>
-            <guid>https://mpi-lamartin.github.io/2026/10/02/X</guid>
-            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.]]></description>
-            <content:encoded><![CDATA[<p><del>Loic Kone et Mienholai Amani sont deux étudiants de l'École Polytechnique présents au lycée jusqu'au printemps. Ils viendront se présenter le vendredi 2 octobre, à 13h55 en B317, et parler des séances de soutien qu'ils vont mettre en place.</del></p>]]></content:encoded>
-            <category>Organisation</category>
         </item>
         <item>
             <title><![CDATA[Santé mentale]]></title>
