@@ -37,6 +37,7 @@ sidebar_label: Mathématiques
 
 |MPI/MPI*|MPI|MPI*|
 | ----------- | ----------- | ----------- |
+|[110.12](http://einexau.cluster028.hosting.ovh.net/site/math/110.12.pdf)||[110.13](http://einexau.cluster028.hosting.ovh.net/site/math/110.13.pdf)|
 |[210.29](http://einexau.cluster028.hosting.ovh.net/site/math/210.29.pdf)|||
 |[210.30](http://einexau.cluster028.hosting.ovh.net/site/math/210.30.pdf)|||
 |[220.13](http://einexau.cluster028.hosting.ovh.net/site/math/220.13.pdf)|||
@@ -45,6 +46,8 @@ sidebar_label: Mathématiques
 |[230.1](http://einexau.cluster028.hosting.ovh.net/site/math/230.1.pdf)|||
 |[230.9](http://einexau.cluster028.hosting.ovh.net/site/math/230.9.pdf)|||
 |[230.10](http://einexau.cluster028.hosting.ovh.net/site/math/230.10.pdf)|||
+|[240.29](http://einexau.cluster028.hosting.ovh.net/site/math/240.29.pdf)|||
+|[240.30](http://einexau.cluster028.hosting.ovh.net/site/math/240.30.pdf)|||
 |[510.15](http://einexau.cluster028.hosting.ovh.net/site/math/510.15.pdf)|||
 |[510.16](http://einexau.cluster028.hosting.ovh.net/site/math/510.16.pdf)|||
 |[520.25](http://einexau.cluster028.hosting.ovh.net/site/math/520.25.pdf)|||
