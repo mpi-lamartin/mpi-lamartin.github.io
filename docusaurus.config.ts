@@ -154,7 +154,7 @@ const config: Config = {
           sidebarId: "physique",
         },
         {
-          href: 'https://mpi-lamartin.github.io/mpi-info/',
+          href: 'https://mpi-informatique.github.io/cours',
           label: 'Informatique',
           position: 'left',
           sidebarId: "info",
