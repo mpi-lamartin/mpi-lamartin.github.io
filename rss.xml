@@ -4,10 +4,20 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Mon, 26 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Les facteurs irréductibles du polynôme minima]]></title>
+            <link>https://mpi-lamartin.github.io/2026/11/03/facteursirreductiblespolynomeminimal</link>
+            <guid>https://mpi-lamartin.github.io/2026/11/03/facteursirreductiblespolynomeminimal</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pour justifier que]]></description>
+            <content:encoded><![CDATA[<p>Pour justifier que
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/261_facteursirreductiblesdupolynomeminimal.pdf" target="_blank" rel="noopener noreferrer" class="">les facteurs irréductibles du polynôme minimal et du polynôme caractéristique sont les mêmes</a>.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Exercices à rédiger]]></title>
             <link>https://mpi-lamartin.github.io/2026/10/26/exercices_corriges</link>
