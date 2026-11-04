@@ -4,10 +4,21 @@
         <title>MPI/MPI* La Martinière Monplaisir Blog</title>
         <link>https://mpi-lamartin.github.io/</link>
         <description>MPI/MPI* La Martinière Monplaisir Blog</description>
-        <lastBuildDate>Tue, 03 Nov 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
+        <item>
+            <title><![CDATA[Un exercice corrigé]]></title>
+            <link>https://mpi-lamartin.github.io/2026/11/04/un_exercice_corrige</link>
+            <guid>https://mpi-lamartin.github.io/2026/11/04/un_exercice_corrige</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Un corrigé de l’exercice]]></description>
+            <content:encoded><![CDATA[<p>Un corrigé de l’exercice
+<a href="http://einexau.cluster028.hosting.ovh.net/site/math/260.33.pdf" target="_blank" rel="noopener noreferrer" class="">260.33</a>
+est proposé.</p>]]></content:encoded>
+            <category>Math</category>
+        </item>
         <item>
             <title><![CDATA[Les facteurs irréductibles du polynôme minima]]></title>
             <link>https://mpi-lamartin.github.io/2026/11/03/facteursirreductiblespolynomeminimal</link>
