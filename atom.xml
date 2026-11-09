@@ -20,18 +20,6 @@
         <category label="Math" term="Math"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Histogramme des notes aux DS]]></title>
-        <id>https://mpi-lamartin.github.io/2026/11/09/_ds_2</id>
-        <link href="https://mpi-lamartin.github.io/2026/11/09/_ds_2"/>
-        <updated>2026-11-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L'histogramme des notes de math est visible ici]]></summary>
-        <content type="html"><![CDATA[<p>L'histogramme des notes de math est visible <a class="" href="https://mpi-lamartin.github.io/2026/11/docs/math/doc4">ici</a></p>]]></content>
-        <author>
-            <name>Guillaume Haberer</name>
-        </author>
-        <category label="Math" term="Math"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Un exercice corrigé]]></title>
         <id>https://mpi-lamartin.github.io/2026/11/04/un_exercice_corrige</id>
         <link href="https://mpi-lamartin.github.io/2026/11/04/un_exercice_corrige"/>
