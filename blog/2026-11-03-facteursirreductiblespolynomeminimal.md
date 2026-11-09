@@ -1,5 +1,5 @@
 ---
-title: Les facteurs irréductibles du polynôme minima
+title: Les facteurs irréductibles du polynôme minimal
 authors: [ghaberer]
 tags: [math]
 ---
