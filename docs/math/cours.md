@@ -69,6 +69,7 @@ Des suites et des séries
 |Intégration des séries de fonctions|[541](./541.pdf)|[541](./541e.pdf)|
 |Séries entières|[550](./550.pdf)|[550](./550e.pdf)|
 |Sommabilité|[560](./560.pdf)|[560](./560e.pdf)|
+|Des exercices liant sommabilité et séries entières||[561](./561e.pdf)|
 |Séries à valeurs dans un evn|[570](./570.pdf)|[570](./570e.pdf)|
 |Suites et séries de fonctions à valeurs dans un evn|[580](./580.pdf)|[580](./580e.pdf)|
 
